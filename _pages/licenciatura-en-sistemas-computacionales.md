@@ -43,7 +43,7 @@ Reconocimiento de Validez Oficial de Estudios ante la Secretaría de Educación 
 
 ## Semestre II
 
-* Algebra lineal
+* Álgebra lineal
 * Cálculo integral
 * Estática
 * Computación para ingenieros

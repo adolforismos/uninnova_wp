@@ -13,7 +13,7 @@ post_date: 2017-06-21 09:43:14
 
 ### RVOE SEP 20140254
 
-Al finalizar el Plan de Estudios de la Licenciatura en Derecho los egresados serán capaces de analizar los contenidos de la ley, desde sus origenes, hasta las condiciones actuales, pasando por distintos momenos significativos en la impartición de justicia. Serán capaces de analizar y, en su caso, poner en práctica los distintos contenidos (o especialidades) del derecho: fiscal, laboral, penal, civil, mercantil; así como de analizar y diseñar el dictado de una demanda, de una orden de ejecución, de una denuncia de hechos, de una consignación, de un amparo, de un acto de inejecución.  
+Al finalizar el Plan de Estudios de la Licenciatura en Derecho los egresados serán capaces de analizar los contenidos de la ley, desde sus orígenes, hasta las condiciones actuales, pasando por distintos momentos significativos en la impartición de justicia. Serán capaces de analizar y, en su caso, poner en práctica los distintos contenidos (o especialidades) del derecho: fiscal, laboral, penal, civil, mercantil; así como de analizar y diseñar el dictado de una demanda, de una orden de ejecución, de una denuncia de hechos, de una consignación, de un amparo, de un acto de inejecución.  
 
 ## Semestre I
  

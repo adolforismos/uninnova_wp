@@ -13,12 +13,12 @@ post_date: 2017-06-21 09:40:35
 
 ### RVOE SEP 20140255
 
-Al finalizar el Plan de Estudios de la Licenciatura en Educación los egresados serán capaces de analizar los contenidos sociales, psicológicos, pedagogicos y metodologicos que intervienen en el desarrollo bio-psico-social de los alumnos. Serán capaces de analizar la práctica educativa para reformular modelos de investigación en el área. Podrán analizar y diagnosticar las funciones de educación espcecial, de enseñanza-aprendizaje y la formación de docentes.
+Al finalizar el Plan de Estudios de la Licenciatura en Educación los egresados serán capaces de analizar los contenidos sociales, psicológicos, pedagógicos y metodológicos que intervienen en el desarrollo bio-psico-social de los alumnos. Serán capaces de analizar la práctica educativa para reformular modelos de investigación en el área. Podrán analizar y diagnosticar las funciones de educación especial, de enseñanza-aprendizaje y la formación de docentes.
 
 ## Semestre I
  
 - Fundamentos neuropsicológicos de la conducta 
-- Historia general de la eduación 
+- Historia general de la educación 
 - Filosofía del hombre 
 - Estadística descriptiva 
 - Administración I 
@@ -42,8 +42,8 @@ Al finalizar el Plan de Estudios de la Licenciatura en Educación los egresados 
 - Filosofía de la educación  
 - Metodología de la investigación 
 - Administración de personal 
-- Diseño de hoja de calculo electronica 
- 
+- Diseño de hoja de calculo electrónica
+
 ## Semestre IV
 
 - Psicología evolutiva II 
@@ -78,14 +78,14 @@ Al finalizar el Plan de Estudios de la Licenciatura en Educación los egresados 
 - Taller de orientación educativa 
 - Diseño y evaluación curricular 
 - Formación docente 
-- Problemas educativos en America Latina 
+- Problemas educativos en América Latina 
 - Planeación estratégica en el contexto educativo 
 - Inglés IV 
 
 ## Semestre VIII
 
 - Problemas de aprendizaje 
-- Elaboracion de programas educativos 
+- Elaboración de programas educativos 
 - Practica docente I 
 - Educación ambiental 
 - Diseño y elaboración de proyectos educativos 

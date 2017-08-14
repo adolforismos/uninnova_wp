@@ -13,7 +13,7 @@ post_date: 2017-06-22 20:10:16
 ---
 ### La movilidad, la capacidad de viajar, desplazarse, es una de las grandes características del presente siglo. 
 
-### A veces lo olvidadamos por lo fácil que se ha vuelto comunicarse desde un pequeño aparato en nuestras manos con el otro lado del mundo.
+### A veces lo olvidamos por lo fácil que se ha vuelto comunicarse desde un pequeño aparato en nuestras manos con el otro lado del mundo.
 
 ### Sin embargo, nunca en la historia de la humanidad han existido tantos y tan frecuentes vuelos de avión, camión, tren, automóvil, e incluso a pie, ya sea por trabajo, refugio, visita, esparcimiento, alimentación, educación,conocimiento… desde ir a un evento público cerca de casa o al otro lado del país.
 

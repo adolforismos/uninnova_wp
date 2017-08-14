@@ -8,10 +8,12 @@ permalink: >
   http://innova.edu.mx/licenciatura-en-informatica/
 published: true
 post_date: 2017-06-20 23:10:27
+
 ---
+
 ### <img src="http://innova.edu.mx/wp-content/uploads/2017/07/hack3-300x186.png" alt="" width="300" height="186" class="alignleft size-medium wp-image-369" />La Informática va más allá del manejo de computadoras o programación. Es sin duda, una de las carreras del presente y el futuro porque en ella se aprende, practica y profesionaliza lo más importante para cualquiera en el ámbito laboral: la capacidad de abstracción y solución de problemas.
 
-### <img src="http://innova.edu.mx/wp-content/uploads/2017/07/hack4-300x205.png" alt="" width="300" height="205" class="alignright size-full wp-image-334" />De ahí que el término *hacker* haya dejado de tener conotaciones negativas y se haya convertido en una manera de describir a quien es capaz de comprender una problemática y encontrar una solución eficiente y rápida.
+### <img src="http://innova.edu.mx/wp-content/uploads/2017/07/hack4-300x205.png" alt="" width="300" height="205" class="alignright size-full wp-image-334" />De ahí que el término *hacker* haya dejado de tener connotaciones negativas y se haya convertido en una manera de describir a quien es capaz de comprender una problemática y encontrar una solución eficiente y rápida.
 
 ### Este plan de estudios fue diseñado y aprobado por la SEP apenas en el 2013, por lo que difícilmente encontrarás un programa tan actualizado, a la vanguardia y pensado en los nuevos tiempos.
 
@@ -33,7 +35,7 @@ Reconocimiento de Validez Oficial de Estudios ante la Secretaría de Educación 
 
 # Plan de estudios
 
-<code>Al finalizar el Plan de Estudios de la Licenciatura en Informática los egresados serán capaces de analizar el procesamiento automático de la información hecho por las computadoras. Serán capaces de analizar y operar distintos modelos matemáticos, estadísticos y algoritmicos, en el diseño de investigaciones cuantitativas. También serán capaces de analizar el diseño y la operación de computadoras, de redes y teleprocesos, en operaciones administrativas. Podrán analizar sistemas de ingeniería de software y procesos informáticos de empresas. </code>
+<code>Al finalizar el Plan de Estudios de la Licenciatura en Informática los egresados serán capaces de analizar el procesamiento automático de la información hecho por las computadoras. Serán capaces de analizar y operar distintos modelos matemáticos, estadísticos y algorítmicos, en el diseño de investigaciones cuantitativas. También serán capaces de analizar el diseño y la operación de computadoras, de redes y teleprocesos, en operaciones administrativas. Podrán analizar sistemas de ingeniería de software y procesos informáticos de empresas. </code>
 
 
 ## Semestre I

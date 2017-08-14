@@ -11,11 +11,32 @@ permalink: >
 published: true
 post_date: 2017-06-22 19:14:44
 ---
-# Licenciatura en Administración de Empresas
-### RVOE SEP 20140253
+### Los nuevos tiempos han dejado atrás las grandes empresas para quedarnos con unos cuantos corporativos y muchas más empresas medianas y pequeñas. Es la nueva economía.
 
-El Plan de Estudios de la Licenciatura de Administración de Empresas tiene como finalidad que sus participantes alcancen un conocimiento (teórico-práctico) amplio, profundo y sólido de los contenidos esenciales, científicos y técnicos, que componen la carrera de Administración de Empresas.
-Pretende que los alumnos adquieran en forma general, y particular los conocimientos de la administración científica, desarrollada en el siglo XX. Con los contenidos normativos de la administración aplicados en distintos entornos para eficientar los recursos y  en el desarrollo de las empresas. En las distintas áreas y procesos de ésta: administración financiera, administración organizacional, admnistración de recursos humanos, administración de relaciones industriales. Incorporando a su saber las técnicas de una administración por objetivos o bajo un modelo de calidad. Además que incorporen a su saber el manejo de la ley, las normas hacendarias y el uso de la informática.   
+### Es en esta nueva economía que también han surgido los emprendedores pero incluso mucho más reciente, las *startups*, muchas de ellas iniciadas en cocheras de casas familiares.
+
+### Lo cierto es que el concepto de empresa ha dejado atrás a la oficina tradicional para pasar a ser una entidad mucho más dinámica, ligera y de constante adaptación al cambio.
+
+### Este plan de estudios fue diseñado y aprobado por la SEP apenas en el 2014, por lo que difícilmente encontrarás un programa tan actualizado, a la vanguardia y pensado en los nuevos tiempos.
+
+### La Licenciatura en Administración de Empresas la tenemos en modalidad **Mixta**.
+
+## Horarios
+
+<img src="http://innova.edu.mx/wp-content/uploads/2017/06/PromocionVerano2017Horarios.png" alt="" width="792" height="612" class="alignnone size-full wp-image-334">
+
+La modalidad Mixta se estudia los sábados de 7 a 14 hrs.
+
+## Becas
+
+<img src="http://innova.edu.mx/wp-content/uploads/2017/06/PromocionVerano2017.png" alt="" width="792" height="612" class="alignnone size-full wp-image-335">
+
+Reconocimiento de Validez Oficial de Estudios ante la Secretaría de Educación Pública (RVOE SEP) 20140253
+
+# Plan de estudios
+
+<code>El Plan de Estudios de la Licenciatura de Administración de Empresas tiene como finalidad que sus participantes alcancen un conocimiento (teórico-práctico) amplio, profundo y sólido de los contenidos esenciales, científicos y técnicos, que componen la carrera de Administración de Empresas.
+Pretende que los alumnos adquieran en forma general, y particular los conocimientos de la administración científica, desarrollada en el siglo XX. Con los contenidos normativos de la administración aplicados en distintos entornos para eficientar los recursos y  en el desarrollo de las empresas. En las distintas áreas y procesos de ésta: administración financiera, administración organizacional, administración de recursos humanos, administración de relaciones industriales. Incorporando a su saber las técnicas de una administración por objetivos o bajo un modelo de calidad. Además que incorporen a su saber el manejo de la ley, las normas hacendarias y el uso de la informática.</code>
 
 ## Semestre I
 
@@ -90,3 +111,6 @@ Pretende que los alumnos adquieran en forma general, y particular los conocimien
 * Auditoria Administrativa o Consultoria
 * Seminario de Calidad Total
 * Seminario de Titulación
+
+### <strong>Atrévete a reinventar tu futuro</strong> y déjanos tu email para recibir más información.
+[contact-form subject='Contacto Innova Administracion Empresas'][contact-field label='Correo electrónico' type='email' required='1'/][/contact-form]

@@ -14,7 +14,7 @@ post_date: 2017-07-07 12:59:42
 
 ### Y además este **Verano 2017** tenemos 2 becas según horarios.
 
-### Becas del **30%** de descuento para horarios matuninos entre semana o sabatino.
+### Becas del **30%** de descuento para horarios matutinos entre semana o sabatino.
 
 ### Becas del **50%** de descuento para horario entre semana vespertino.
 
