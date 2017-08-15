@@ -11,11 +11,35 @@ permalink: >
 published: true
 post_date: 2017-06-21 09:44:49
 ---
-# Licenciatura en Ciencias de la Comunicación
 
-### RVOE SEP 20140256
+### En las últimas décadas la humanidad ha generado mucha más información que la generada en toda su historia. Desde los mensajes de texto hasta los más sofisticados video juegos, pasando por libros, manuales, fotografías digitales, blogs, enciclopedias en línea, videos, redes sociales…
 
-Al final del Plan de Estudios de la Licenciatura en Ciencias de la Comunicación los egresados serán capaces de analizar los conceptos, prácticas y procesos del fenómeno de la comunicación; así como de sus distintas teorías: antropológica, psicológica, cibernética, semiológica y estructuralista. También será capaz de analizar, y en su caso operar, las distintas especialidades: periodismo, publicidad y video.
+### Se pueden construir portales web, revistas digitales, tener a la mano las cámaras de mayor resolución, los mejores procesadores de texto, pero al final, lo esencial sigue siendo el contenido: comunicar con un mensaje y sentido claros, que llegue a la audiencia en tiempo y forma.
+
+### Producir un video, por ejemplo, y ponerlo a disposición de millones de personas es hoy por hoy lo más fácil para cualquiera. Pero solo los buenos contenidos llegan a los receptores buscados.
+
+### Grandes tiempos para la Licenciatura en Ciencias de la Comunicación. 
+
+### Este plan de estudios fue diseñado y aprobado por la SEP apenas en el 2014, por lo que difícilmente encontrarás un programa tan actualizado, a la vanguardia y pensado en los nuevos tiempos.
+
+### La Licenciatura en Administración en Ciencias de la Comunicacion la tenemos en modalidad **Mixta**.
+
+## Horarios
+
+<img src="http://innova.edu.mx/wp-content/uploads/2017/06/PromocionVerano2017Horarios.png" alt="" width="792" height="612" class="alignnone size-full wp-image-334">
+
+La modalidad Mixta se estudia los sábados de 7 a 14 hrs.
+
+
+## Becas
+
+<img src="http://innova.edu.mx/wp-content/uploads/2017/06/PromocionVerano2017.png" alt="" width="792" height="612" class="alignnone size-full wp-image-335">
+
+Reconocimiento de Validez Oficial de Estudios ante la Secretaría de Educación Pública (RVOE SEP) 20140256
+
+# Plan de estudios
+
+<code>Al final del Plan de Estudios de la Licenciatura en Ciencias de la Comunicación los egresados serán capaces de analizar los conceptos, prácticas y procesos del fenómeno de la comunicación; así como de sus distintas teorías: antropológica, psicológica, cibernética, semiológica y estructuralista. También será capaz de analizar, y en su caso operar, las distintas especialidades: periodismo, publicidad y video.</code>
 
 ## Semestre I
  
@@ -91,3 +115,6 @@ Al final del Plan de Estudios de la Licenciatura en Ciencias de la Comunicación
 - Regulación de los medios audiovisuales 
 - Metodología de la investigación periodística en los medios audiovisuales  
 - Taller de diseño y organización de la producción audiovisual
+
+### <strong>Atrévete a reinventar tu futuro</strong> y déjanos tu email para recibir más información.
+[contact-form subject='Contacto Innova Comunicacion'][contact-field label='Correo electrónico' type='email' required='1'/][/contact-form]

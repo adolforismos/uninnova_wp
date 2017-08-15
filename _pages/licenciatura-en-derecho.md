@@ -9,11 +9,30 @@ permalink: >
 published: true
 post_date: 2017-06-21 09:43:14
 ---
-# Licenciatura en Derecho
 
-### RVOE SEP 20140254
+### El Derecho, tan elemental como las leyes y su ejecución, tan basto y amplio como los muy diferentes ámbitos del individuo, sociedad y nación donde se manifiesta.
 
-Al finalizar el Plan de Estudios de la Licenciatura en Derecho los egresados serán capaces de analizar los contenidos de la ley, desde sus orígenes, hasta las condiciones actuales, pasando por distintos momentos significativos en la impartición de justicia. Serán capaces de analizar y, en su caso, poner en práctica los distintos contenidos (o especialidades) del derecho: fiscal, laboral, penal, civil, mercantil; así como de analizar y diseñar el dictado de una demanda, de una orden de ejecución, de una denuncia de hechos, de una consignación, de un amparo, de un acto de inejecución.  
+### Muchas cosas han cambiado desde los antiguos romanos, donde nace el Derecho actual, sin embargo, los principios esenciales, los documentos base, siguen siendo los mismos: contrato, acta, oficio, demanda, orden, denuncia, consignación, amparo…
+
+### La actualidad y futuro del Derecho radica en saber mantener la esencia de sus fundamentos con una visión a las necesidades de los nuevos tiempos.
+
+### Este plan de estudios fue diseñado y aprobado por la SEP apenas en el 2014, por lo que difícilmente encontrarás un programa tan actualizado, a la vanguardia y pensado en los nuevos tiempos.
+
+### La Licenciatura en Derecho la tenemos en modalidad **Mixta**.
+
+## Horarios
+
+<img src="http://innova.edu.mx/wp-content/uploads/2017/06/PromocionVerano2017Horarios.png" alt="" width="792" height="612" class="alignnone size-full wp-image-334">
+
+La modalidad Mixta se estudia los sábados de 7 a 14 hrs.
+
+## Becas
+
+<img src="http://innova.edu.mx/wp-content/uploads/2017/06/PromocionVerano2017.png" alt="" width="792" height="612" class="alignnone size-full wp-image-335">
+
+Reconocimiento de Validez Oficial de Estudios ante la Secretaría de Educación Pública (RVOE SEP) 20140254
+
+<code>Al finalizar el Plan de Estudios de la Licenciatura en Derecho los egresados serán capaces de analizar los contenidos de la ley, desde sus orígenes, hasta las condiciones actuales, pasando por distintos momentos significativos en la impartición de justicia. Serán capaces de analizar y, en su caso, poner en práctica los distintos contenidos (o especialidades) del derecho: fiscal, laboral, penal, civil, mercantil; así como de analizar y diseñar el dictado de una demanda, de una orden de ejecución, de una denuncia de hechos, de una consignación, de un amparo, de un acto de inejecución.</code>
 
 ## Semestre I
  
@@ -90,3 +109,6 @@ Al finalizar el Plan de Estudios de la Licenciatura en Derecho los egresados ser
 - Seguridad Social 
 - Practica Forense Civil y Mercantil 
 - Seminario de titulación II
+
+### <strong>Atrévete a reinventar tu futuro</strong> y déjanos tu email para recibir más información.
+[contact-form subject='Contacto Innova Derecho'][contact-field label='Correo electrónico' type='email' required='1'/][/contact-form]

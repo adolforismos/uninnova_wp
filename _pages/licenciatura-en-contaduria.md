@@ -9,11 +9,32 @@ permalink: >
 published: true
 post_date: 2017-06-20 23:12:30
 ---
-# Licenciatura en Contaduría
 
-### RVOE SEP 20140252
+### Es a veces en lo más básico y esencial donde se encuentra el gran secreto del éxito empresarial, económico o social. 
 
-Al final del Plan de Estudios de la Licenciatura en Contaduría los egresados serán capaces de analizar los contenidos esenciales de la administración contable: el sistema contable, el sistema financiero y el sistema fiscal. Además será capaz de analizar y operar el sistema matemático, jurídico y económico, relacionado con la práctica contable.   
+### Carreras y conceptos en este ámbito van y vienen: administrador, financiero, alta dirección, ciencias administrativas, pero sin duda, es el dominio del sistema contable el que constituye el piso firme de cualquier crecimiento de negocios.
+
+### Y no se trata de meros números, que para eso están ya los programas de software, sino de entender verdaderamente las partes, reglas y dinámicas de un sistema cuyo poder y capacidad puede hacer cerrar o crecer empresas.
+
+### Este plan de estudios fue diseñado y aprobado por la SEP apenas en el 2014, por lo que difícilmente encontrarás un programa tan actualizado, a la vanguardia y pensado en los nuevos tiempos.
+
+### La Licenciatura en Contaduría la tenemos en modalidad **Mixta**.
+
+## Horarios
+
+<img src="http://innova.edu.mx/wp-content/uploads/2017/06/PromocionVerano2017Horarios.png" alt="" width="792" height="612" class="alignnone size-full wp-image-334">
+
+La modalidad Mixta se estudia los sábados de 7 a 14 hrs.
+
+## Becas
+
+<img src="http://innova.edu.mx/wp-content/uploads/2017/06/PromocionVerano2017.png" alt="" width="792" height="612" class="alignnone size-full wp-image-335">
+
+Reconocimiento de Validez Oficial de Estudios ante la Secretaría de Educación Pública (RVOE SEP)  20140252
+
+# Plan de estudios
+
+<code>Al final del Plan de Estudios de la Licenciatura en Contaduría los egresados serán capaces de analizar los contenidos esenciales de la administración contable: el sistema contable, el sistema financiero y el sistema fiscal. Además será capaz de analizar y operar el sistema matemático, jurídico y económico, relacionado con la práctica contable.</code>
 
 ## Semestre I
  
@@ -88,3 +109,6 @@ Al final del Plan de Estudios de la Licenciatura en Contaduría los egresados se
 - Finanzas III
 - Estudios de preinversión 
 - Seminario de titulación
+
+### <strong>Atrévete a reinventar tu futuro</strong> y déjanos tu email para recibir más información.
+[contact-form subject='Contacto Innova Contaduría'][contact-field label='Correo electrónico' type='email' required='1'/][/contact-form]

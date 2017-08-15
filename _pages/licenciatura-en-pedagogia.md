@@ -9,10 +9,29 @@ permalink: >
 published: true
 post_date: 2017-06-22 19:05:16
 ---
-# Licenciatura en Pedagogía
-### RVOE SEP 20150438
+### La relación maestro-alumno ha cambiado radicalmente. Los procesos de enseñanza-aprendizaje requieren atención y renovación continua ante una nueva sociedad ahogada en información multimedia y hábitos tecnológicos sin precedentes.
 
-Al final del Plan de Estudios de la Licenciatura en Pedagogía los egresados serán capaces de analizar el fenómeno y proceso educativo, en su dimensión de enseñanza-aprendizaje. Así mismo serán capaces de analizar y sintetizar la interrelación entre el factor social la didáctica y la psicología, para el desarrollo epistémico de los alumnos. Serán capaces de analizar y poner en práctica los procesos de la administración educativa: de analizar y diseñar los contenidos curriculares necesarios y de diseñar modelos de investigación socio-educativos que redunde en la mejora educativa.
+### La información está en la _nube_, pero siempre requerirá del guía, mentor, maestro, que le de seguimiento y acomodo adecuado al educando con las técnicas y modelos actualizados.
+
+### Este plan de estudios fue diseñado y aprobado por la SEP apenas en el 2015, por lo que difícilmente encontrarás un programa tan actualizado, a la vanguardia y pensado en los nuevos tiempos.
+
+### La Licenciatura en Pedagogía la tenemos en modalidad **Mixta**.
+
+## Horarios
+
+<img src="http://innova.edu.mx/wp-content/uploads/2017/06/PromocionVerano2017Horarios.png" alt="" width="792" height="612" class="alignnone size-full wp-image-334">
+
+La modalidad Mixta se estudia los sábados de 7 a 14 hrs.
+
+## Becas
+
+<img src="http://innova.edu.mx/wp-content/uploads/2017/06/PromocionVerano2017.png" alt="" width="792" height="612" class="alignnone size-full wp-image-335">
+
+Reconocimiento de Validez Oficial de Estudios ante la Secretaría de Educación Pública (RVOE SEP) 20150438
+
+# Plan de estudios
+
+<code>Al final del Plan de Estudios de la Licenciatura en Pedagogía los egresados serán capaces de analizar el fenómeno y proceso educativo, en su dimensión de enseñanza-aprendizaje. Así mismo serán capaces de analizar y sintetizar la interrelación entre el factor social la didáctica y la psicología, para el desarrollo epistémico de los alumnos. Serán capaces de analizar y poner en práctica los procesos de la administración educativa: de analizar y diseñar los contenidos curriculares necesarios y de diseñar modelos de investigación socio-educativos que redunde en la mejora educativa.</code>
 
 ## Semestre I
 
@@ -95,3 +114,6 @@ Al final del Plan de Estudios de la Licenciatura en Pedagogía los egresados ser
 * Seminario de Corrientes Pedagógicos Contemporáneas 
 * Integración Educativa Il
 * Metodología de la Investigación en las  Ciencias Sociales III
+
+### <strong>Atrévete a reinventar tu futuro</strong> y déjanos tu email para recibir más información.
+[contact-form subject='Contacto Innova Pedagogia'][contact-field label='Correo electrónico' type='email' required='1'/][/contact-form]
