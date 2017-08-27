@@ -11,7 +11,11 @@ post_date: 2017-06-22 19:16:17
 ---
 ### Es indudable la trascendencia de las computadoras en la vida contemporánea, ya sea desde la imagen clásica de una PC o *personal computer* o a la sofisticación de los equipos celulares o el llamado *internet de las cosas".
 
+[caption id="attachment_544" align="alignnone" width="525"]<a href="http://innova.edu.mx/wp-content/uploads/2017/08/electronic_1503878111.jpg"><img src="http://innova.edu.mx/wp-content/uploads/2017/08/electronic_1503878111-1024x695.jpg" alt="" width="525" height="356" class="size-large wp-image-544" /></a> <a href="https://pixabay.com/users/blickpixel/">blickpixel</a> / Pixabay[/caption]
+
 ### Y para estar a la altura de esta presencia y ubicuidad tenemos una carrera que busca la comprensión y manejo de estas máquinas modernas, desde la parte física o *hardware*, hasta la ejecución de su *software*, pasando por supuesto por el *sistema operativo*.
+
+[caption id="attachment_545" align="alignnone" width="525"]<a href="http://innova.edu.mx/wp-content/uploads/2017/08/ux_1503878209.jpg"><img src="http://innova.edu.mx/wp-content/uploads/2017/08/ux_1503878209-1024x680.jpg" alt="" width="525" height="349" class="size-large wp-image-545" /></a> <a href="https://pixabay.com/users/FirmBee/">FirmBee</a> / Pixabay[/caption]
 
 ### Este plan de estudios fue diseñado y aprobado por la SEP apenas en el 2015, por lo que difícilmente encontrarás un programa tan actualizado, a la vanguardia y pensado en los nuevos tiempos.
 
