@@ -11,9 +11,13 @@ post_date: 2017-06-22 20:13:12
 ---
 ### Hace ya algunas décadas que la lengua inglesa ha dejado de ser simplemente el idioma de los negocios o una buena opción de segunda lengua para estudiar y poner en práctica para leer alguno que otro manual o conversar brevemente con algún extranjero.
 
+<img src="http://innova.edu.mx/wp-content/uploads/2017/08/ze7lhd5lxes.jpg" alt="" width="1600" height="1071" class="alignnone size-full wp-image-507" />
+
 ### El lengua inglesa va más allá de su condición de lenguaje para pasar a ser todo un fenómeno social, cultural y sobre todo el receptáculo y motor de los datos, información y conocimientos contemporáneos.
 
 ### Ya no es suficiente contar con el entendimiento o traducciones simples y literales de aquello escrito en esta lengua, porque eso ya lo puede hacer una computadora o programa, es necesario entender su contexto, su historia, sentido y variedad de vocabulario.
+
+[caption id="attachment_509" align="alignnone" width="525"]<a href="http://innova.edu.mx/wp-content/uploads/2017/08/england_1503864926.jpg"><img src="http://innova.edu.mx/wp-content/uploads/2017/08/england_1503864926-1024x682.jpg" alt="" width="525" height="350" class="size-large wp-image-509" /></a> <a href="https://pixabay.com/users/stux/">stux</a> / Pixabay[/caption]
 
 ### Este plan de estudios para la Licenciatura en Lengua Inglesa fue diseñado y aprobado por la SEP apenas en el 2013, por lo que difícilmente encontrarás un programa tan actualizado, a la vanguardia y pensado en los nuevos tiempos.
 
