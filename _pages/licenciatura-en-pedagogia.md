@@ -11,7 +11,11 @@ post_date: 2017-06-22 19:05:16
 ---
 ### La relación maestro-alumno ha cambiado radicalmente. Los procesos de enseñanza-aprendizaje requieren atención y renovación continua ante una nueva sociedad ahogada en información multimedia y hábitos tecnológicos sin precedentes.
 
+[caption id="attachment_536" align="alignnone" width="525"]<a href="http://innova.edu.mx/wp-content/uploads/2017/08/classroom_1503877213.jpg"><img src="http://innova.edu.mx/wp-content/uploads/2017/08/classroom_1503877213-1024x682.jpg" alt="" width="525" height="350" class="size-large wp-image-536" /></a> <a href="https://pixabay.com/users/StockSnap/">StockSnap</a> / Pixabay[/caption]
+
 ### La información está en la _nube_, pero siempre requerirá del guía, mentor, maestro, que le de seguimiento y acomodo adecuado al educando con las técnicas y modelos actualizados.
+
+<img src="http://innova.edu.mx/wp-content/uploads/2017/08/1onorxy-ww0-1024x683.jpg" alt="" width="525" height="350" class="alignnone size-large wp-image-537" />
 
 ### Este plan de estudios fue diseñado y aprobado por la SEP apenas en el 2015, por lo que difícilmente encontrarás un programa tan actualizado, a la vanguardia y pensado en los nuevos tiempos.
 
