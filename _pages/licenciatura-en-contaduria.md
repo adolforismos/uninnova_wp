@@ -9,10 +9,13 @@ permalink: >
 published: true
 post_date: 2017-06-20 23:12:30
 ---
-
 ### Es a veces en lo más básico y esencial donde se encuentra el gran secreto del éxito empresarial, económico o social. 
 
+[caption id="attachment_525" align="alignnone" width="525"]<a href="http://innova.edu.mx/wp-content/uploads/2017/08/ledger_1503867194.jpg"><img src="http://innova.edu.mx/wp-content/uploads/2017/08/ledger_1503867194-1024x680.jpg" alt="" width="525" height="349" class="size-large wp-image-525" /></a> <a href="https://pixabay.com/users/cpastrick/">cpastrick</a> / Pixabay[/caption]
+
 ### Carreras y conceptos en este ámbito van y vienen: administrador, financiero, alta dirección, ciencias administrativas, pero sin duda, es el dominio del sistema contable el que constituye el piso firme de cualquier crecimiento de negocios.
+
+[caption id="attachment_526" align="alignnone" width="525"]<a href="http://innova.edu.mx/wp-content/uploads/2017/08/excel_1503867307.jpg"><img src="http://innova.edu.mx/wp-content/uploads/2017/08/excel_1503867307-1024x626.jpg" alt="" width="525" height="321" class="size-large wp-image-526" /></a> <a href="https://pixabay.com/users/Pexels/">Pexels</a> / Pixabay[/caption]
 
 ### Y no se trata de meros números, que para eso están ya los programas de software, sino de entender verdaderamente las partes, reglas y dinámicas de un sistema cuyo poder y capacidad puede hacer cerrar o crecer empresas.
 
