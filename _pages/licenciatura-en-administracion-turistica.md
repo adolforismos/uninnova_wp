@@ -13,9 +13,13 @@ post_date: 2017-06-22 20:10:16
 ---
 ### La movilidad, la capacidad de viajar, desplazarse, es una de las grandes características del presente siglo. 
 
+<img src="http://innova.edu.mx/wp-content/uploads/2017/08/k_rybedevdw-1024x679.jpg" alt="" width="525" height="348" class="alignnone size-large wp-image-517" />
+
 ### A veces lo olvidamos por lo fácil que se ha vuelto comunicarse desde un pequeño aparato en nuestras manos con el otro lado del mundo.
 
 ### Sin embargo, nunca en la historia de la humanidad han existido tantos y tan frecuentes vuelos de avión, camión, tren, automóvil, e incluso a pie, ya sea por trabajo, refugio, visita, esparcimiento, alimentación, educación,conocimiento… desde ir a un evento público cerca de casa o al otro lado del país.
+
+<img src="http://innova.edu.mx/wp-content/uploads/2017/08/vgoiy1gzzyg-1024x682.jpg" alt="" width="525" height="350" class="alignnone size-large wp-image-518" />
 
 ### La comprensión, administración y proyección de las necesidades y oportunidades en infraestructura y servicios que esto conlleva, es uno de los principales enfoques de la Administración Turística.
 
