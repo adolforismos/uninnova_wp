@@ -11,11 +11,13 @@ post_date: 2017-06-22 19:12:55
 ---
 ### La atención es la mercancía de los tiempos actuales, dice Tim Wu, autor del libro *The Attention Merchants*, y por supuesto que el futuro es de quién sepa llevar la atención de una audiencia hacia el mensaje que quiera comunicar.
 
+<img src="http://innova.edu.mx/wp-content/uploads/2017/08/h7roztmgxwe-1024x675.jpg" alt="" width="525" height="346" class="alignnone size-large wp-image-540" />
+
 ### Las reglas básicas, las estrategias y tácticas elementales de los mercados parecen no haber cambiado, pero su diseño, aplicación, desarrollo y evaluación incluye ahora medios digitales que no existían y nuevas generaciones que conocen, se comunican y consumen de modo diferente.
 
+<img src="http://innova.edu.mx/wp-content/uploads/2017/08/jrh5laq-mis-1024x680.jpg" alt="" width="525" height="349" class="alignnone size-large wp-image-542" />
+
 ### Son momentos interesantes y apasionantes para la **Mercadotecnia**.
-
-
 
 ### Este plan de estudios fue diseñado y aprobado por la SEP apenas en el 2013, por lo que difícilmente encontrarás un programa tan actualizado, a la vanguardia y pensado en los nuevos tiempos.
 
