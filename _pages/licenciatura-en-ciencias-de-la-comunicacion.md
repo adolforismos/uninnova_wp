@@ -11,12 +11,15 @@ permalink: >
 published: true
 post_date: 2017-06-21 09:44:49
 ---
-
 ### En las últimas décadas la humanidad ha generado mucha más información que la generada en toda su historia. Desde los mensajes de texto hasta los más sofisticados video juegos, pasando por libros, manuales, fotografías digitales, blogs, enciclopedias en línea, videos, redes sociales…
+
+<img src="http://innova.edu.mx/wp-content/uploads/2017/08/ngmtse5r9ei-1024x575.jpg" alt="" width="525" height="295" class="alignnone size-large wp-image-521" />
 
 ### Se pueden construir portales web, revistas digitales, tener a la mano las cámaras de mayor resolución, los mejores procesadores de texto, pero al final, lo esencial sigue siendo el contenido: comunicar con un mensaje y sentido claros, que llegue a la audiencia en tiempo y forma.
 
 ### Producir un video, por ejemplo, y ponerlo a disposición de millones de personas es hoy por hoy lo más fácil para cualquiera. Pero solo los buenos contenidos llegan a los receptores buscados.
+
+<img src="http://innova.edu.mx/wp-content/uploads/2017/08/9prbuwj6tvq-1024x683.jpg" alt="" width="525" height="350" class="alignnone size-large wp-image-522" />
 
 ### Grandes tiempos para la Licenciatura en Ciencias de la Comunicación. 
 
