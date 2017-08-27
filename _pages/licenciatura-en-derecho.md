@@ -9,10 +9,13 @@ permalink: >
 published: true
 post_date: 2017-06-21 09:43:14
 ---
-
 ### El Derecho, tan elemental como las leyes y su ejecución, tan basto y amplio como los muy diferentes ámbitos del individuo, sociedad y nación donde se manifiesta.
 
+[caption id="attachment_529" align="alignnone" width="525"]<a href="http://innova.edu.mx/wp-content/uploads/2017/08/agreement_1503868211.jpg"><img src="http://innova.edu.mx/wp-content/uploads/2017/08/agreement_1503868211-1024x680.jpg" alt="" width="525" height="349" class="size-large wp-image-529" /></a> <a href="https://pixabay.com/users/SCY/">SCY</a> / Pixabay[/caption]
+
 ### Muchas cosas han cambiado desde los antiguos romanos, donde nace el Derecho actual, sin embargo, los principios esenciales, los documentos base, siguen siendo los mismos: contrato, acta, oficio, demanda, orden, denuncia, consignación, amparo…
+
+[caption id="attachment_530" align="alignnone" width="525"]<a href="http://innova.edu.mx/wp-content/uploads/2017/08/contract_1503868292.jpg"><img src="http://innova.edu.mx/wp-content/uploads/2017/08/contract_1503868292-1024x682.jpg" alt="" width="525" height="350" class="size-large wp-image-530" /></a> <a href="https://pixabay.com/users/delphinmedia/">delphinmedia</a> / Pixabay[/caption]
 
 ### La actualidad y futuro del Derecho radica en saber mantener la esencia de sus fundamentos con una visión a las necesidades de los nuevos tiempos.
 
