@@ -13,9 +13,13 @@ post_date: 2017-06-22 19:14:44
 ---
 ### Los nuevos tiempos han dejado atrás las grandes empresas para quedarnos con unos cuantos corporativos y muchas más empresas medianas y pequeñas. Es la nueva economía.
 
+[caption id="attachment_513" align="alignright" width="525"]<a href="http://innova.edu.mx/wp-content/uploads/2017/08/economy_1503865405.jpg"><img src="http://innova.edu.mx/wp-content/uploads/2017/08/economy_1503865405-1024x682.jpg" alt="" width="525" height="350" class="size-large wp-image-513" /></a> <a href="https://pixabay.com/users/stevepb/">stevepb</a> / Pixabay[/caption]
+
 ### Es en esta nueva economía que también han surgido los emprendedores pero incluso mucho más reciente, las *startups*, muchas de ellas iniciadas en cocheras de casas familiares.
 
 ### Lo cierto es que el concepto de empresa ha dejado atrás a la oficina tradicional para pasar a ser una entidad mucho más dinámica, ligera y de constante adaptación al cambio.
+
+<img src="http://innova.edu.mx/wp-content/uploads/2017/08/kjaxzt1zrwm-1024x683.jpg" alt="" width="525" height="350" class="alignright size-large wp-image-514" />
 
 ### Este plan de estudios fue diseñado y aprobado por la SEP apenas en el 2014, por lo que difícilmente encontrarás un programa tan actualizado, a la vanguardia y pensado en los nuevos tiempos.
 
