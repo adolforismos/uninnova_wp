@@ -8,8 +8,8 @@ permalink: >
   http://innova.edu.mx/licenciatura-en-informatica/
 published: true
 post_date: 2017-06-20 23:10:27
-
 ---
+[video width="1280" height="720" mp4="http://innova.edu.mx/wp-content/uploads/2017/06/informatica-2.mp4"][/video]
 
 ### <img src="http://innova.edu.mx/wp-content/uploads/2017/07/hack3-300x186.png" alt="" width="300" height="186" class="alignleft size-medium wp-image-369" />La Informática va más allá del manejo de computadoras o programación. Es sin duda, una de las carreras del presente y el futuro porque en ella se aprende, practica y profesionaliza lo más importante para cualquiera en el ámbito laboral: la capacidad de abstracción y solución de problemas.
 
