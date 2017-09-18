@@ -30,6 +30,7 @@ post_date: 2017-09-17 19:15:01
 * Te estás ahorrando un año entero de colegiatura (25% menos).
 * Te respetamos becas y promociones.
 * Y eso no es todo: tenemos un cupón válido para tí o algún amigo.
+* Iniciamos clases en octubre 2017.
 
 Cuando te inscribas tienes que dar el siguiente código de cupón y se te hará válido todo lo anterior:
 
