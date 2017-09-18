@@ -1,13 +1,12 @@
 ---
+ID: 609
 post_title: Licenciatura en 3 años
 author: innova
 post_excerpt: ""
 layout: page
-permalink: http://innova.edu.mx/licenciatura-en-3-anos/
+permalink: http://innova.edu.mx/?page_id=609
 published: false
-post_date: 2017-09-17 19:15:01
 ---
-
 ### Ahora, licenciaturas en 3 años
 
 ### Con nuestros nuevos planes cuatrimestrales, tenemos nuevos horarios y días para nuestras licenciaturas, nuevo esquema de precios, programas de estudio recién actualizados ante la SEP, pero lo más importante, ¡ahora puedes cursar la licenciatura en sólo 3 años!
