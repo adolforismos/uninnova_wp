@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-06-22 19:16:17
 ---
-### Es indudable la trascendencia de las computadoras en la vida contemporánea, ya sea desde la imagen clásica de una PC o *personal computer* o a la sofisticación de los equipos celulares o el llamado *internet de las cosas".
+### Es indudable la trascendencia de las computadoras en la vida contemporánea, ya sea desde la imagen clásica de una PC o *personal computer* o a la sofisticación de los equipos celulares o el llamado *internet de las cosas*.
 
 [caption id="attachment_544" align="alignnone" width="525"]<a href="http://innova.edu.mx/wp-content/uploads/2017/08/electronic_1503878111.jpg"><img src="http://innova.edu.mx/wp-content/uploads/2017/08/electronic_1503878111-1024x695.jpg" alt="" width="525" height="356" class="size-large wp-image-544" /></a> <a href="https://pixabay.com/users/blickpixel/">blickpixel</a> / Pixabay[/caption]
 
@@ -17,92 +17,159 @@ post_date: 2017-06-22 19:16:17
 
 [caption id="attachment_545" align="alignnone" width="525"]<a href="http://innova.edu.mx/wp-content/uploads/2017/08/ux_1503878209.jpg"><img src="http://innova.edu.mx/wp-content/uploads/2017/08/ux_1503878209-1024x680.jpg" alt="" width="525" height="349" class="size-large wp-image-545" /></a> <a href="https://pixabay.com/users/FirmBee/">FirmBee</a> / Pixabay[/caption]
 
-### Este plan de estudios fue diseñado y aprobado por la SEP apenas en el 2015, por lo que difícilmente encontrarás un programa tan actualizado, a la vanguardia y pensado en los nuevos tiempos.
+### Este plan de estudios fue diseñado y aprobado por la SEP apenas este 2017, por lo que difícilmente encontrarás un programa tan actualizado, a la vanguardia y pensado en los nuevos tiempos.
 
-### La Licenciatura en Sistemas Computacionales la tenemos en modalidad **Mixta**.
+### La Licenciatura en Sistemas Computacionales la tenemos en modalidad **No Escolarizada**.
 
-## Horarios
+## Horarios Entresemana
 
-<img src="http://innova.edu.mx/wp-content/uploads/2017/06/PromocionVerano2017Horarios.png" alt="" width="792" height="612" class="alignnone size-full wp-image-334">
+Turno | Horarios
+---|---
+Matutino | 8:00 a 14:00 hrs
+Vespertino | 17:00 a 21:00 hrs
 
-La modalidad Mixta se estudia los sábados de 7 a 14 hrs.
+## Horarios Sábados
+
+Turno | Horarios
+---|---
+Sabatino | 7:00 a 14:00 hrs
 
 ## Becas
 
-<img src="http://innova.edu.mx/wp-content/uploads/2017/06/PromocionVerano2017.png" alt="" width="792" height="612" class="alignnone size-full wp-image-335">
+### Usualmente tu pagas en cada Cuatrimestre
+
+Concepto | Pesos
+---|---
+Inscripción | 800
+Mensualidad 1 | 1,850
+Mensualidad 2 | 1,850
+Mensualidad 3 | 1,850
+Mensualidad 4 | 1,850
+Total cada Cuatrimestre  | 8,200
+
+### Con Beca tu pagas menos el 30%
+#### Y la primera inscripción es ¡Gratis!
+
+##### Primer Cuatrimestre
+
+Concepto | Pesos
+---|---
+Inscripción | Gratis
+Mensualidad 1 | 1,300
+Mensualidad 2 | 1,300
+Mensualidad 3 | 1,300
+Mensualidad 4 | 1,300
+Total Cuatrimestre I | 5,200
+
+##### A partir del Segundo Cuatrimestre
+
+Concepto | Pesos
+---|---
+Inscripción | 800
+Mensualidad 1 | 1,300
+Mensualidad 2 | 1,300
+Mensualidad 3 | 1,300
+Mensualidad 4 | 1,300
+Total cada Cuatrimestre | 6,000
+
+* _Los precios no incluen cuotas SEP_
 
 Reconocimiento de Validez Oficial de Estudios ante la Secretaría de Educación Pública (RVOE SEP) 20150437
 
 # Plan de estudios
 
-<code>Al final del Plan de Estudios de la Licenciatura en Sistemas Computacionales los egresados serán capaces de analizar y dar soporte a los sistemas electrónicos (hardware) del procesamiento digital de datos y control de procesos; así como el análisis de sistemas de programación; tanto de base como de aplicación (software) para el desarrollo e investigación en las ciencias de la computación. Serán capaces de analizar y operar sistemas matemáticos avanzados y físicos. También serán capaces de analizar los contenidos de las ciencias sociales y humanísticas. </code>
+<code>Al finalizar el plan de estudios de la Licenciatura en Sistemas Computacionales, los egresados serán profesionales con actitud emprendedora e innovadora, bajo un enfoque de sustentabilidad y de responsabilidad social, que propicien el logro de objetivos de las empresas, a través de la optimización de los recursos humanos, materiales, financieros, tecnológicos y de información, capaces de aplicar las herramientas tecnológicas necesarias para la resolución de problemas, con la finalidad de automatizar los procesos dentro de las organizaciones  con  los avances tecnológicos de vanguardia. 
+</code>
 
-## Semestre I
+## Cuatrimestre I
 
-* Álgebra
-* Cálculo diferencial
-* Geometría analítica
-* Química y estructura de materiales
-* Cultura y comunicación
 
-## Semestre II
+- Fundamentos de la Administración
+- Conceptos jurídicos Fundamentales
+- Macroeconomía     
+- Contabilidad Básica 
+- Matemáticas Aplicadas
 
-* Álgebra lineal
-* Cálculo integral
-* Estática
-* Computación para ingenieros
-* Introducción a la teoría  económica
 
-## Semestre III
+## Cuatrimestre II
 
-* Ecuaciones diferenciales
-* Cálculo vectorial
-* Cinemática y dinámica
-* Principios de termodinámica y electromagnetismo
-* Programación avanzada y métodos numéricos
 
-## Semestre IV
+- Fundamentos de la Mercadotecnia
+- Derecho Fiscal 
+- Microeconomía 
+- Administración Financiera 
+- Estadística 
 
-* Probabilidad y estadística
-* Algoritmos y estructura de datos
-* Estructura y programación  de computadoras
-* Análisis de sistemas y señales
-* Literatura hispanoamericana contemporánea
-* Ética profesional
 
-## Semestre V
+## Cuatrimestre III
 
-* Ingeniería de software
-* Estructuras discretas
-* Sistemas operativos
-* Circuitos electrónicos
-* Diseño de sistemas digitales
 
-## Semestre VI
+- Mercadotecnia Estratégica 
+- Comportamiento Humano en las Organizaciones
+- Análisis del entorno Económico Político y Social 
+- Administración de Capital Humano
+- Informática Aplicada
 
-* Lenguajes de programación
-* Lenguajes formales y autómatas
-* Dispositivos y circuitos electrónicos
-* Sistemas de comunicaciones
-* Microcomputadoras
-* Desarrollo social
 
-## Semestre VII
+## Cuatrimestre IV
 
-* Bases de datos
-* Compiladores
-* Administración de proyectos de software
-* Redes de datos
-* Arquitectura de computadoras
-* Computación gráfica
 
-## Semestre VIII
+- Cinemática y dinámica
+- Fundamentos de Programación
+- Algoritmos y Estructura de Datos
+- Álgebra
+- Estructura de Datos
 
-* Sistemas de control
-* Administración de redes
-* Dispositivos de almacenamiento y de entrada/salida
-* Inteligencia artificial
-* Recursos y necesidades de México
+
+## Cuatrimestre V
+
+
+- Legislación Informática
+- Programación I
+- Sistemas Operativos
+- Cálculo Diferencial e Integral
+- Base de Datos I
+
+
+## Cuatrimestre VI
+
+
+- Programación Lógica
+- Programación II
+- Estructura y Programación de Computadoras
+ Arquitectura de Computadoras
+- Base de Datos II
+
+## Cuatrimestre VII
+
+
+- Consultoría en Tecnologías de la Información 
+- Análisis y Diseño de Sistemas de Información I
+- Desarrollo de Aplicaciones Multimedia
+- Redes de Computo I
+- Investigación de Operaciones I
+
+
+## Cuatrimestre VIII
+
+
+- Ingeniería de Software
+- Análisis y Diseño de Sistemas de Información II
+- Desarrollo de Aplicaciones Web
+- Redes de Cómputo II
+- Investigación de Operaciones II
+
+
+
+## Cuatrimestre IX
+
+
+- Auditoría y Sistemas de Gestión de Información 
+- Inteligencia Artificial
+- Evaluación y Configuración de Hardware 
+- Nuevas Tecnologías de Cómputo
+- Seminario de Tesis
+
 
 ### <strong>Atrévete a reinventar tu futuro</strong> y déjanos tu email para recibir más información.
 [contact-form subject='Contacto Innova Sistemas Computacionales'][contact-field label='Correo electrónico' type='email' required='1'/][/contact-form]
