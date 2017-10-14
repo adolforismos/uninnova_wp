@@ -76,7 +76,7 @@ Total cada Cuatrimestre | 6,000
 
 * _Los precios no incluen cuotas SEP de $528 pesos por cuatrimestre_
 
-# REVOE
+# RVOE
 
 Reconocimiento de Validez Oficial de Estudios ante la Secretaría de Educación Pública (RVOE SEP) 20170437
 
