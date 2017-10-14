@@ -34,7 +34,7 @@ Turno | Horarios
 ---|---
 Sabatino | 7:00 a 14:00 hrs
 
-## Becas
+## Precios de lista
 
 ### Usualmente tu pagas en cada Cuatrimestre
 
@@ -47,8 +47,10 @@ Mensualidad 3 | 1,850
 Mensualidad 4 | 1,850
 Total cada Cuatrimestre  | 8,200
 
-### Con Beca tu pagas menos el 30%
-#### Y la primera inscripción es ¡Gratis!
+## Becas
+
+### Si eres candidato a Beca puedes recibir un descuento del 30% sobre cada mensualidad.
+### Adiconalmente, la inscripción del primer cuatrimestre es ¡Gratis!
 
 ##### Primer Cuatrimestre
 
@@ -72,9 +74,11 @@ Mensualidad 3 | 1,300
 Mensualidad 4 | 1,300
 Total cada Cuatrimestre | 6,000
 
-* _Los precios no incluen cuotas SEP_
+* _Los precios no incluen cuotas SEP de $528 pesos por cuatrimestre_
 
-Reconocimiento de Validez Oficial de Estudios ante la Secretaría de Educación Pública (RVOE SEP) 20150437
+# REVOE
+
+Reconocimiento de Validez Oficial de Estudios ante la Secretaría de Educación Pública (RVOE SEP) 20170437
 
 # Plan de estudios
 
