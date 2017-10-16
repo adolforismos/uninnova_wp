@@ -32,11 +32,6 @@ Turno | Horarios
 Matutino | 8:00 a 14:00 hrs
 Vespertino | 17:00 a 21:00 hrs
 
-## Horarios Sábados
-
-Turno | Horarios
----|---
-Sabatino | 7:00 a 14:00 hrs
 
 ## Precios de lista
 
@@ -45,11 +40,11 @@ Sabatino | 7:00 a 14:00 hrs
 Concepto | Pesos
 ---|---
 Inscripción | 800
-Mensualidad 1 | 1,850
-Mensualidad 2 | 1,850
-Mensualidad 3 | 1,850
-Mensualidad 4 | 1,850
-Total cada Cuatrimestre  | 8,200
+Mensualidad 1 | 1,860
+Mensualidad 2 | 1,860
+Mensualidad 3 | 1,860
+Mensualidad 4 | 1,860
+Total cada Cuatrimestre  | 8,240
 
 ## Becas
 

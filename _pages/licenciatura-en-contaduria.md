@@ -19,16 +19,10 @@ post_date: 2017-06-20 23:12:30
 
 ### Y no se trata de meros números, que para eso están ya los programas de software, sino de entender verdaderamente las partes, reglas y dinámicas de un sistema cuyo poder y capacidad puede hacer cerrar o crecer empresas.
 
-### Este plan de estudios fue diseñado y aprobado por la SEP apenas en el 2014, por lo que difícilmente encontrarás un programa tan actualizado, a la vanguardia y pensado en los nuevos tiempos.
+### Este plan de estudios fue diseñado y aprobado por la SEP apenas este 2017, por lo que difícilmente encontrarás un programa tan actualizado, a la vanguardia y pensado en los nuevos tiempos.
 
 ### La Licenciatura en Contaduría la tenemos en modalidad **No Escolarizada**.
 
-## Horarios Entresemana
-
-Turno | Horarios
----|---
-Matutino | 8:00 a 14:00 hrs
-Vespertino | 17:00 a 21:00 hrs
 
 ## Horarios Sábados
 
@@ -43,11 +37,11 @@ Sabatino | 7:00 a 14:00 hrs
 Concepto | Pesos
 ---|---
 Inscripción | 800
-Mensualidad 1 | 1,850
-Mensualidad 2 | 1,850
-Mensualidad 3 | 1,850
-Mensualidad 4 | 1,850
-Total cada Cuatrimestre  | 8,200
+Mensualidad 1 | 1,860
+Mensualidad 2 | 1,860
+Mensualidad 3 | 1,860
+Mensualidad 4 | 1,860
+Total cada Cuatrimestre  | 8,240
 
 ## Becas
 
