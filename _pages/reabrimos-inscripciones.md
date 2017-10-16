@@ -1,10 +1,11 @@
 ---
+ID: 675
 post_title: Reabrimos Inscripciones
 author: innova
 post_excerpt: ""
 layout: page
 permalink: >
-  http://innova.edu.mx/reabrimos-inscripciones-2017/
+  http://innova.edu.mx/reabrimos-inscripciones/
 published: true
 post_date: 2017-10-15 20:14:28
 ---
