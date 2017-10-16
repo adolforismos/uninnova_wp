@@ -10,6 +10,9 @@ permalink: >
 published: true
 post_date: 2017-06-22 20:10:16
 ---
+
+# ¡Reabrimos inscripciones durante octubre!
+
 ### La movilidad, la capacidad de viajar, desplazarse, es una de las grandes características del presente siglo. 
 
 <img src="http://innova.edu.mx/wp-content/uploads/2017/08/k_rybedevdw-1024x679.jpg" alt="" width="525" height="348" class="alignnone size-large wp-image-517" />
@@ -22,7 +25,7 @@ post_date: 2017-06-22 20:10:16
 
 ### La comprensión, administración y proyección de las necesidades y oportunidades en infraestructura y servicios que esto conlleva, es uno de los principales enfoques de la Administración Turística.
 
-### Este plan de estudios para la Licenciatura en Administración Turística fue diseñado y aprobado por la SEP apenas este 2017, por lo que difícilmente encontrarás un programa tan actualizado, a la vanguardia y pensado en los nuevos tiempos.
+### Este plan de estudios para la Licenciatura en Administración Turística fue actualizado y aprobado por la SEP apenas este 2017, por lo que difícilmente encontrarás un programa tan actualizado, a la vanguardia y pensado en los nuevos tiempos.
 
 ### La Licenciatura en Administración Turística la tenemos en modalidad, **No Escolarizada**.
 ## Horarios Entresemana
@@ -77,7 +80,7 @@ Total cada Cuatrimestre | 6,000
 
 # RVOE
 
-Reconocimiento de Validez Oficial de Estudios ante la Secretaría de Educación Pública (RVOE SEP) 2017
+Reconocimiento de Validez Oficial de Estudios ante la Secretaría de Educación Pública (RVOE SEP) 20130376
 
 # Plan te estudio (para ambas modalidades)
 

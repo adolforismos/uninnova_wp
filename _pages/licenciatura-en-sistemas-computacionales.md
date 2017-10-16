@@ -9,6 +9,9 @@ permalink: >
 published: true
 post_date: 2017-06-22 19:16:17
 ---
+
+# ¡Reabrimos inscripciones durante octubre!
+
 ### Es indudable la trascendencia de las computadoras en la vida contemporánea, ya sea desde la imagen clásica de una PC o *personal computer* o a la sofisticación de los equipos celulares o el llamado *internet de las cosas*.
 
 [caption id="attachment_544" align="alignnone" width="525"]<a href="http://innova.edu.mx/wp-content/uploads/2017/08/electronic_1503878111.jpg"><img src="http://innova.edu.mx/wp-content/uploads/2017/08/electronic_1503878111-1024x695.jpg" alt="" width="525" height="356" class="size-large wp-image-544" /></a> <a href="https://pixabay.com/users/blickpixel/">blickpixel</a> / Pixabay[/caption]
@@ -17,7 +20,7 @@ post_date: 2017-06-22 19:16:17
 
 [caption id="attachment_545" align="alignnone" width="525"]<a href="http://innova.edu.mx/wp-content/uploads/2017/08/ux_1503878209.jpg"><img src="http://innova.edu.mx/wp-content/uploads/2017/08/ux_1503878209-1024x680.jpg" alt="" width="525" height="349" class="size-large wp-image-545" /></a> <a href="https://pixabay.com/users/FirmBee/">FirmBee</a> / Pixabay[/caption]
 
-### Este plan de estudios fue diseñado y aprobado por la SEP apenas este 2017, por lo que difícilmente encontrarás un programa tan actualizado, a la vanguardia y pensado en los nuevos tiempos.
+### Este plan de estudios fue actualizado y aprobado por la SEP apenas este 2017, por lo que difícilmente encontrarás un programa tan actualizado, a la vanguardia y pensado en los nuevos tiempos.
 
 ### La Licenciatura en Sistemas Computacionales la tenemos en modalidad **No Escolarizada**.
 
@@ -73,7 +76,7 @@ Total cada Cuatrimestre | 6,000
 
 # RVOE
 
-Reconocimiento de Validez Oficial de Estudios ante la Secretaría de Educación Pública (RVOE SEP) 20170437
+Reconocimiento de Validez Oficial de Estudios ante la Secretaría de Educación Pública (RVOE SEP) 20150437
 
 # Plan de estudios
 

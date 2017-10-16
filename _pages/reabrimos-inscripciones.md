@@ -10,6 +10,8 @@ published: true
 post_date: 2017-10-15 20:14:28
 ---
 
+![Photo by Ben White unsplash.com](http://innova.edu.mx/wp-content/uploads/2017/10/qdy9ahp0mto-768x513.jpg)
+
 ### Después del **sismo del 19 de septiembre** de este 2017 han sido semanas difíciles para todos.
 
 ### En Universidad Innova lo sabemos y es por eso que hemos **reabierto inscripciones en 4 de nuestras licenciaturas**.

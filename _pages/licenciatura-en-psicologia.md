@@ -9,13 +9,16 @@ permalink: >
 published: true
 post_date: 2017-06-22 20:14:28
 ---
+
+# ¡Reabrimos inscripciones durante octubre!
+
 [video width="1280" height="720" mp4="http://innova.edu.mx/wp-content/uploads/2017/06/psicologia.mp4"][/video]
 
 ### Es la Psicología el estudio del objeto más complejo y fascinante del universo, de aquello que nos hace únicos y nos define como personas.
 
 <img src="http://innova.edu.mx/wp-content/uploads/2017/06/pablo-3.png" alt="" width="1024" height="512" class="alignnone size-full wp-image-329" />
 
-### Este plan de estudios fue diseñado y aprobado por la SEP apenas este 2017, por lo que difícilmente encontrarás un programa tan actualizado, a la vanguardia y pensado en los nuevos tiempos.
+### Este plan de estudios fue actualizado y aprobado por la SEP apenas este 2017, por lo que difícilmente encontrarás un programa tan actualizado, a la vanguardia y pensado en los nuevos tiempos.
 
 <img src="http://innova.edu.mx/wp-content/uploads/2017/06/pablo-2.png" alt="" width="1024" height="512" class="alignnone size-full wp-image-330" />
 
@@ -72,7 +75,7 @@ Total cada Cuatrimestre | 6,000
 
 # RVOE
 
-Reconocimiento de Validez Oficial de Estudios ante la Secretaría de Educación Pública (RVOE SEP) 2017
+Reconocimiento de Validez Oficial de Estudios ante la Secretaría de Educación Pública (RVOE SEP) 20160580
 
 
 # Plan de estudios

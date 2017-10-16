@@ -9,6 +9,9 @@ permalink: >
 published: true
 post_date: 2017-06-20 23:12:30
 ---
+
+# ¡Reabrimos inscripciones durante octubre!
+
 ### Es a veces en lo más básico y esencial donde se encuentra el gran secreto del éxito empresarial, económico o social. 
 
 [caption id="attachment_525" align="alignnone" width="525"]<a href="http://innova.edu.mx/wp-content/uploads/2017/08/ledger_1503867194.jpg"><img src="http://innova.edu.mx/wp-content/uploads/2017/08/ledger_1503867194-1024x680.jpg" alt="" width="525" height="349" class="size-large wp-image-525" /></a> <a href="https://pixabay.com/users/cpastrick/">cpastrick</a> / Pixabay[/caption]
@@ -19,7 +22,7 @@ post_date: 2017-06-20 23:12:30
 
 ### Y no se trata de meros números, que para eso están ya los programas de software, sino de entender verdaderamente las partes, reglas y dinámicas de un sistema cuyo poder y capacidad puede hacer cerrar o crecer empresas.
 
-### Este plan de estudios fue diseñado y aprobado por la SEP apenas este 2017, por lo que difícilmente encontrarás un programa tan actualizado, a la vanguardia y pensado en los nuevos tiempos.
+### Este plan de estudios fue actualizado y aprobado por la SEP apenas este 2017, por lo que difícilmente encontrarás un programa tan actualizado, a la vanguardia y pensado en los nuevos tiempos.
 
 ### La Licenciatura en Contaduría la tenemos en modalidad **No Escolarizada**.
 
@@ -74,7 +77,7 @@ Total cada Cuatrimestre | 6,000
 
 # RVOE
 
-Reconocimiento de Validez Oficial de Estudios ante la Secretaría de Educación Pública (RVOE SEP) 2017
+Reconocimiento de Validez Oficial de Estudios ante la Secretaría de Educación Pública (RVOE SEP) 20140252
 
 # Plan de estudios
 
