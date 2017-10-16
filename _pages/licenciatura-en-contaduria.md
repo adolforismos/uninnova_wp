@@ -21,97 +21,157 @@ post_date: 2017-06-20 23:12:30
 
 ### Este plan de estudios fue diseñado y aprobado por la SEP apenas en el 2014, por lo que difícilmente encontrarás un programa tan actualizado, a la vanguardia y pensado en los nuevos tiempos.
 
-### La Licenciatura en Contaduría la tenemos en modalidad **Mixta**.
+### La Licenciatura en Contaduría la tenemos en modalidad **No Escolarizada**.
 
-## Horarios
+## Horarios Entresemana
 
-<img src="http://innova.edu.mx/wp-content/uploads/2017/06/PromocionVerano2017Horarios.png" alt="" width="792" height="612" class="alignnone size-full wp-image-334">
+Turno | Horarios
+---|---
+Matutino | 8:00 a 14:00 hrs
+Vespertino | 17:00 a 21:00 hrs
 
-La modalidad Mixta se estudia los sábados de 7 a 14 hrs.
+## Horarios Sábados
+
+Turno | Horarios
+---|---
+Sabatino | 7:00 a 14:00 hrs
+
+## Precios de lista
+
+### Usualmente tu pagas en cada Cuatrimestre
+
+Concepto | Pesos
+---|---
+Inscripción | 800
+Mensualidad 1 | 1,850
+Mensualidad 2 | 1,850
+Mensualidad 3 | 1,850
+Mensualidad 4 | 1,850
+Total cada Cuatrimestre  | 8,200
 
 ## Becas
 
-<img src="http://innova.edu.mx/wp-content/uploads/2017/06/PromocionVerano2017.png" alt="" width="792" height="612" class="alignnone size-full wp-image-335">
+### Si eres candidato a Beca puedes recibir un descuento del 30% sobre cada mensualidad.
+### Adiconalmente, la inscripción del primer cuatrimestre es ¡Gratis!
 
-Reconocimiento de Validez Oficial de Estudios ante la Secretaría de Educación Pública (RVOE SEP)  20140252
+##### Primer Cuatrimestre
+
+Concepto | Pesos
+---|---
+Inscripción | Gratis
+Mensualidad 1 | 1,300
+Mensualidad 2 | 1,300
+Mensualidad 3 | 1,300
+Mensualidad 4 | 1,300
+Total Cuatrimestre I | 5,200
+
+##### A partir del Segundo Cuatrimestre
+
+Concepto | Pesos
+---|---
+Inscripción | 800
+Mensualidad 1 | 1,300
+Mensualidad 2 | 1,300
+Mensualidad 3 | 1,300
+Mensualidad 4 | 1,300
+Total cada Cuatrimestre | 6,000
+
+* _Los precios no incluen cuotas SEP de $528 pesos por cuatrimestre_
+
+# RVOE
+
+Reconocimiento de Validez Oficial de Estudios ante la Secretaría de Educación Pública (RVOE SEP) 2017
 
 # Plan de estudios
 
-<code>Al final del Plan de Estudios de la Licenciatura en Contaduría los egresados serán capaces de analizar los contenidos esenciales de la administración contable: el sistema contable, el sistema financiero y el sistema fiscal. Además será capaz de analizar y operar el sistema matemático, jurídico y económico, relacionado con la práctica contable.</code>
+<code>Al finalizar el plan de estudios de la Licenciatura en Contaduría, el alumno analizará y solucionará problemas asociados con los procesos contables y financieros, con respecto a conocimientos teóricos y metodológicos de tipo contable, financiero y administrativo; a su vez será capaz de  formular, desarrollar y evaluar el plan estratégico financiero-contable de las organizaciones, aplicar presupuestos y costos para lograr una mayor movilidad dentro de las asignaciones presupuestarias, tomar decisiones en materia financiero-administrativa y tributaria y en todo tipo de entidades nacionales e internacionales, utilizando sistemas de información de negocios, basados en las normas contables, las técnicas y las normas jurídicas pertinentes, desde una visión humanista, de ética profesional y de responsabilidad social. </code>
 
-## Semestre I
+## Cuatrimestre I
  
-- Contabilidad I
-- Economía
-- Metodología de la investigación 
-- Matemáticas I
-- Introducción al derecho 
-- Administración
 
-## Semestre II
-
-- Contabilidad II
-- Economía II
-- Desarrollo de emprendedores 
-- Matemáticas II
-- Derecho administrativo
-- Análisis y diseño de estructuras 
-
-## Semestre III
-
-- Contabilidad III
-- Contabilidad administrativa I
-- Economía III
-- Derecho mercantil I
-- Matemáticas III
+- Fundamentos de la administración 
+- Conceptos jurídicos fundamentales 
+- Macroeconomía  
+- Contabilidad básica  
+- Matemáticas aplicadas 
 
 
-## Semestre IV
+## Cuatrimestre II
 
-- Contabilidad IV
-- Estudio contable de sociedades 
-- Fiscal I
-- Contabilidad administrativa II
-- Matemáticas IV
-- Derecho mercantil II
 
-## Semestre V
+- Fundamentos de la mercadotecnia  
+- Derecho fiscal  
+- Microeconomía  
+- Administración financiera  
+- Estadística  
 
-- Contabilidad V
-- Reexpresión de estados financieros 
-- Auditoria I
-- Fiscal II
-- Contabilidad administrativa III
-- Derecho laboral 
-- Mercadotecnia
 
-## Semestre VI
+## Cuatrimestre III
 
-- Organización contable
-- Auditoria II
-- Fiscal III
-- Contabilidad administrativa IV
-- Finanzas I
-- Administración de recursos humanos
 
-## Semestre VII
+- Mercadotecnia estratégica  
+- Comportamiento humano en las organizaciones 
+- Análisis del entorno económico político y social  
+- Administración de capital humano 
+- Informática aplicada 
 
-- Contabilidad gubernamental
-- Auditoria III
-- Fiscal IV
-- Finanzas II
-- Producción
-- Dirección
 
-## Semestre VIII
 
-- Seminario de contabilidad
-- Seminario de auditoria
-- Seminario de fiscal
-- Seguridad social
-- Finanzas III
-- Estudios de preinversión 
-- Seminario de titulación
+## Cuatrimestre IV
+
+
+- Administración de operaciones  
+- Derecho laboral  
+- Investigación de operaciones  
+- Contabilidad de costos  
+- Ética en las organizaciones  
+
+## Cuatrimestre V
+
+
+- Administración de compras y abastecimiento 
+- Contabilidad de sociedades  
+- Finanzas  
+- Contabilidad administrativa  
+- Presupuestos  
+
+
+## Cuatrimestre VI
+
+
+- Crédito y cobranza  
+- Contribuciones indirectas y al comercio exterior  
+- Finanzas corporativas  
+- Administración de personal y desarrollo de los recursos humanos  
+- Contabilidad bancaria  
+
+## Cuatrimestre VII
+
+
+- Auditoria interna y operacional  
+- ISR a salarios y seguridad social  
+- Finanzas internacionales  
+- Control de gestión  
+- Prevención y detención de fraudes  
+
+
+## Cuatrimestre VIII
+
+
+- Impuesto sobre la renta  
+- Legislación del comercio exterior  
+- Globalización económica y las finanzas  
+- Marco legal de la empresa  
+- Seminario de tesis I 
+
+## Cuatrimestre IX
+
+- Impuesto al valor agregado  
+- Legislación aduanera  
+- Amparo fiscal  
+- Política financiera publica  
+- Seminario de Tesis II 
+
 
 ### <strong>Atrévete a reinventar tu futuro</strong> y déjanos tu email para recibir más información.
 [contact-form subject='Contacto Innova Contaduría'][contact-field label='Correo electrónico' type='email' required='1'/][/contact-form]

@@ -1,8 +1,7 @@
 ---
 ID: 286
 post_title: >
-  Licenciatura en Administración
-  Turística
+  Licenciatura en Administración Turística
 author: innova
 post_excerpt: ""
 layout: page
@@ -23,105 +22,164 @@ post_date: 2017-06-22 20:10:16
 
 ### La comprensión, administración y proyección de las necesidades y oportunidades en infraestructura y servicios que esto conlleva, es uno de los principales enfoques de la Administración Turística.
 
-### Este plan de estudios para la Licenciatura en Administración Turística fue diseñado y aprobado por la SEP apenas en el 2013, por lo que difícilmente encontrarás un programa tan actualizado, a la vanguardia y pensado en los nuevos tiempos.
+### Este plan de estudios para la Licenciatura en Administración Turística fue diseñado y aprobado por la SEP apenas este 2017, por lo que difícilmente encontrarás un programa tan actualizado, a la vanguardia y pensado en los nuevos tiempos.
 
-### La Licenciatura en Administración Turística la tenemos en dos modalidades, **Escolarizada y Mixta**.
+### La Licenciatura en Administración Turística la tenemos en modalidad, **No Escolarizada**.
+## Horarios Entresemana
 
-## Horarios 
+Turno | Horarios
+---|---
+Matutino | 8:00 a 14:00 hrs
+Vespertino | 17:00 a 21:00 hrs
 
-<img src="http://innova.edu.mx/wp-content/uploads/2017/06/PromocionVerano2017Horarios.png" alt="" width="792" height="612" class="alignnone size-full wp-image-334" />
+## Horarios Sábados
 
-La modalidad Escolarizada se estudia entre semana, con dos horarios posibles, de 8 a 14 hrs. para el turno matutino, o de 17 a 21 hrs. para el turno vespertino.
+Turno | Horarios
+---|---
+Sabatino | 7:00 a 14:00 hrs
 
-La modalidad Mixta se estudia los sábados de 7 a 14 hrs.
+## Precios de lista
+
+### Usualmente tu pagas en cada Cuatrimestre
+
+Concepto | Pesos
+---|---
+Inscripción | 800
+Mensualidad 1 | 1,850
+Mensualidad 2 | 1,850
+Mensualidad 3 | 1,850
+Mensualidad 4 | 1,850
+Total cada Cuatrimestre  | 8,200
 
 ## Becas
 
-<img src="http://innova.edu.mx/wp-content/uploads/2017/06/PromocionVerano2017.png" alt="" width="792" height="612" class="alignnone size-full wp-image-335" />
+### Si eres candidato a Beca puedes recibir un descuento del 30% sobre cada mensualidad.
+### Adiconalmente, la inscripción del primer cuatrimestre es ¡Gratis!
 
-Reconocimiento de Validez Oficial de Estudios ante la Secretaría de Educación Pública (RVOE SEP) para la Escolarizada 20130376 y para la Mixta 20130377.
+##### Primer Cuatrimestre
 
+Concepto | Pesos
+---|---
+Inscripción | Gratis
+Mensualidad 1 | 1,300
+Mensualidad 2 | 1,300
+Mensualidad 3 | 1,300
+Mensualidad 4 | 1,300
+Total Cuatrimestre I | 5,200
+
+##### A partir del Segundo Cuatrimestre
+
+Concepto | Pesos
+---|---
+Inscripción | 800
+Mensualidad 1 | 1,300
+Mensualidad 2 | 1,300
+Mensualidad 3 | 1,300
+Mensualidad 4 | 1,300
+Total cada Cuatrimestre | 6,000
+
+* _Los precios no incluen cuotas SEP de $528 pesos por cuatrimestre_
+
+# RVOE
+
+Reconocimiento de Validez Oficial de Estudios ante la Secretaría de Educación Pública (RVOE SEP) 2017
 
 # Plan te estudio (para ambas modalidades)
 
 
-<code>Al final del Plan de Estudios de la Licenciatura en Administración Turística los egresados serán capaces de analizar los contenidos multidisciplinarios de la carrera: administración contable y financiera, mercadotecnia aplicada, economía aplicada al desarrollo regional y turístico, estadística y el dominio del idioma inglés. Será capaz de analizar la arqueología y el patrimonio cultural y natural del país; así como los principios legislativos y ecológicos de la práctica turística.</code>    
+<code>Al finalizar el plan de estudios de la Licenciatura en Administración Turística, el alumno: Analizará los elementos constitutivos de la Administración turística; fundamentos de administración general, derecho, mercadotecnia, contabilidad, informática, estadística, psicología, así como sus particularidades como disciplina a través de la relación que guarda con la cultura, sociedad, arqueología, comercio y política, con la finalidad de diseñar y operar sus procedimientos específicos y estrategias de resolución de problemáticas inherentes a esta disciplina frente a el desarrollo regional, la legislación turística, la operación de empresas de alimentos y bebidas, los eventos, los viajes turísticos, operación de empresas de hospedaje,tendencias actuales y gestión del patrimonio cultural.</code>    
 
-## Semestre I
+## Cuatrimestre I
  
-- Arqueología y turismo
-- Contabilidad básica
-- Cultura, sociedad y turismo
-- Estadística descriptiva
-- Geografía turística
-- Introducción a la administración
-- Inglés C1
 
-## Semestre II
+- Fundamentos de la administración
+- Conceptos jurídicos fundamentales 
+- Macroeconomía  
+- Contabilidad básica  
+- Matemáticas aplicadas 
 
-- Estadística y probabilidad
-- Introducción a la mercadotecnia
-- Introducción al estudio del turismo
-- Comercialización turística I
-- Tiempo libre, ocio y turismo
-- Inglés CII
 
-## Semestre III
+## Cuatrimestre II
 
-- Animaciones
-- Comercialización turística II
-- Enfoques multidisciplinarios del turismo
-- Finanzas
-- Legislación turística
-- Investigación de mercados turísticos
-- Inglés D1
+
+- Fundamentos de la mercadotecnia  
+- Derecho fiscal  
+- Microeconomía  
+- Administración financiera  
+- Estadística  
+
+
+## Cuatrimestre III
+
+
+- Cultura, sociedad y turismo  
+- Arqueología y turismo 
+- Introducción al turismo  
+- Comercialización turística I  
+- Inglés I  
+
+
+## Cuatrimestre IV
+
+
+- Mercados mundiales del turismo  
+- Enfoques multidisciplinarios del turismo  
+- Legislación turística  
+- Comercialización turística II  
+- Inglés II  
+
+
+## Cuatrimestre V
+
+
+- Mercados mundiales del turismo  
+- Enfoques multidisciplinarios del turismo  
+- Legislación turística  
+- Comercialización turística II  
+- Inglés II  
  
-## Semestre IV
+
+## Cuatrimestre VI
 
 
-- Mercados mundiales del turismo
-- Microeconomía y turismo
-- Organización de eventos
-- Operación de empresas de alimentos y bebidas
-- Operación de empresas de hospedaje
-- Inglés DII
-
-## Semestre V
-
-- Macroeconomía y Turismo
-- Organización de viajes turísticos
-- Turismo y desarrollo regional
-- Ecología
-- Política turística
-- Psicología para el turismo
-- Temas selectos de administración 
-
-## Semestre VI
-
-- Tendencias actuales del turismo
-- Investigación de operaciones I
-- Desarrollo de emprendedores
-- Presupuestos
-- Administración estratégica 
-- Gestión del patrimonio cultural
-
-## Semestre VII
-
-- Gestión del patrimonio natural
-- Innovación en productos y servicios turísticos
-- Investigación de operaciones II
-- Museística
-- Metodología de la investigación
+- Psicología para el turismo  
+- Turismo y desarrollo regional  
+- Política turística  
+- Operación de empresas de alimentos y bebidas  
+- Inglés III  
 
 
-## Semestre VIII
+## Cuatrimestre VII
 
-- Administración  General 
-- Contabilidad administrativa 
-- Impactos del turismo en el patrimonio natural
-- Mercadotecnia aplicada
-- Investigación mercadológica 
-- Ventas
+
+- Presupuestos  
+- Investigación de operaciones I  
+- Organización de viajes turísticos  
+- Organización de eventos  
+- Inglés IV  
+
+
+
+## Cuatrimestre VIII
+
+
+- Administración estratégica  
+- Investigación de operaciones II  
+- Innovación en productos y servicios turísticos  
+- Operación de empresas de hospedaje  
+- Inglés V 
+
+
+## Cuatrimestre IX
+
+
+- Tendencias actuales del turismo 
+- Desarrollo de emprendedores y habilidades directivas  
+- Gestión del patrimonio cultural  
+- Ventas  
+- Inglés VI  
+
+
 
 ### <strong>Atrévete a reinventar tu futuro</strong> y déjanos tu email para recibir más información.
 [contact-form subject='Contacto Innova Turismo'][contact-field label='Correo electrónico' type='email' required='1'/][/contact-form]
