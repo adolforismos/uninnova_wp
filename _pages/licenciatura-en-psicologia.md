@@ -20,7 +20,7 @@ post_date: 2017-06-22 20:14:28
 <img src="http://innova.edu.mx/wp-content/uploads/2017/06/pablo-2.png" alt="" width="1024" height="512" class="alignnone size-full wp-image-330" />
 
 
-### Modalidad No Escolarizada - Sábados de 7 a 14 hrs
+### Modalidad No Escolarizada
 
 ## Horarios Sábados
 
