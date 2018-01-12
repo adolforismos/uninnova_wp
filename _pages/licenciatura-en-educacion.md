@@ -21,102 +21,59 @@ post_date: 2017-06-21 09:40:35
 
 ### La Licenciatura en Educación la tenemos en modalidad **Mixta**.
 
-## Horarios
+## Horarios Sábados
 
-<img src="http://innova.edu.mx/wp-content/uploads/2017/06/PromocionVerano2017Horarios.png" alt="" width="792" height="612" class="alignnone size-full wp-image-334">
+Turno | Horarios
+---|---
+Sabatino | 7:00 a 14:00 hrs
 
-La modalidad Mixta se estudia los sábados de 7 a 14 hrs.
+## Precios de lista
+
+### Usualmente tu pagas en cada Cuatrimestre
+
+Concepto | Pesos
+---|---
+Inscripción | 800
+Mensualidad 1 | 1,860
+Mensualidad 2 | 1,860
+Mensualidad 3 | 1,860
+Mensualidad 4 | 1,860
+Total cada Cuatrimestre  | 8,240
 
 ## Becas
 
-<img src="http://innova.edu.mx/wp-content/uploads/2017/06/PromocionVerano2017.png" alt="" width="792" height="612" class="alignnone size-full wp-image-335">
+### Si eres candidato a Beca puedes recibir un descuento del 30% sobre cada mensualidad.
+### Adiconalmente, la inscripción del primer cuatrimestre es ¡Gratis!
+
+##### Primer Cuatrimestre
+
+Concepto | Pesos
+---|---
+Inscripción | Gratis
+Mensualidad 1 | 1,300
+Mensualidad 2 | 1,300
+Mensualidad 3 | 1,300
+Mensualidad 4 | 1,300
+Total Cuatrimestre I | 5,200
+
+##### A partir del Segundo Cuatrimestre
+
+Concepto | Pesos
+---|---
+Inscripción | 800
+Mensualidad 1 | 1,300
+Mensualidad 2 | 1,300
+Mensualidad 3 | 1,300
+Mensualidad 4 | 1,300
+Total cada Cuatrimestre | 6,000
+
+* _Los precios no incluen cuotas SEP de $528 pesos por cuatrimestre_
 
 Reconocimiento de Validez Oficial de Estudios ante la Secretaría de Educación Pública (RVOE SEP) 20140255
 
-<code>Al finalizar el Plan de Estudios de la Licenciatura en Educación los egresados serán capaces de analizar los contenidos sociales, psicológicos, pedagógicos y metodológicos que intervienen en el desarrollo bio-psico-social de los alumnos. Serán capaces de analizar la práctica educativa para reformular modelos de investigación en el área. Podrán analizar y diagnosticar las funciones de educación especial, de enseñanza-aprendizaje y la formación de docentes.</code>
+## Plan de estudios
 
-## Semestre I
- 
-- Fundamentos neuropsicológicos de la conducta 
-- Historia general de la educación 
-- Filosofía del hombre 
-- Estadística descriptiva 
-- Administración I 
-- Introducción a la computación
-
-## Semestre II
-
-- Psicología del aprendizaje 
-- Historia de la educación en México I 
-- Sociología de la educación 
-- Teoría de la educación 
-- Estadística aplicada a la educación 
-- Administración II 
-- Diseño de software educativo 
-
-## Semestre III
-
-- Psicología evolutiva I 
-- Didáctica general 
-- Historia de la educación en México II 
-- Filosofía de la educación  
-- Metodología de la investigación 
-- Administración de personal 
-- Diseño de hoja de calculo electrónica
-
-## Semestre IV
-
-- Psicología evolutiva II 
-- Taller de didáctica 
-- Legislación educativa 
-- Investigación educativa 
-- Administración de instituciones educativas 
-- Practicas administrativas 
-- Inglés  
-
-
-## Semestre V
-
-- Psicología de la educación 
-- Taller de tecnología educativa 
-- Sistema educativo mexicano 
-- Corrientes pedagógicas contemporáneas 
-- Evaluación de instituciones educativas 
-- Ingles II 
- 
-## Semestre VI
-
-- Evaluación y medición educativa  
-- Orientación educativa 
-- Teoría curricular 
-- Comunicación educativa 
-- Educación comparada 
-- Inglés III 
-
-## Semestre VII
-
-- Taller de orientación educativa 
-- Diseño y evaluación curricular 
-- Formación docente 
-- Problemas educativos en América Latina 
-- Planeación estratégica en el contexto educativo 
-- Inglés IV 
-
-## Semestre VIII
-
-- Problemas de aprendizaje 
-- Elaboración de programas educativos 
-- Practica docente I 
-- Educación ambiental 
-- Diseño y elaboración de proyectos educativos 
-- Diseño de proyectos didácticos 
-
-## Semestre IX
- 
-- Practica docente II 
-- Deontología de la educación 
-- Aplicación y evaluación de proyectos educativos 
-- Seminario de tesis
+¡Pregunta por nuestro nuevo plan de estudios cuatrimestral!
 
 ### <strong>Atrévete a reinventar tu futuro</strong> y déjanos tu email para recibir más información.
 [contact-form subject='Contacto Innova Educacion'][contact-field label='Correo electrónico' type='email' required='1'/][/contact-form]

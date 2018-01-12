@@ -10,7 +10,7 @@ published: true
 post_date: 2017-06-20 23:12:30
 ---
 
-# ¡Reabrimos inscripciones durante octubre!
+
 
 ### Es a veces en lo más básico y esencial donde se encuentra el gran secreto del éxito empresarial, económico o social. 
 

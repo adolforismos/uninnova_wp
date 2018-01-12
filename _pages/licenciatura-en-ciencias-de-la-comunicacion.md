@@ -27,97 +27,59 @@ post_date: 2017-06-21 09:44:49
 
 ### La Licenciatura en Administración en Ciencias de la Comunicacion la tenemos en modalidad **Mixta**.
 
-## Horarios
+## Horarios Sábados
 
-<img src="http://innova.edu.mx/wp-content/uploads/2017/06/PromocionVerano2017Horarios.png" alt="" width="792" height="612" class="alignnone size-full wp-image-334">
+Turno | Horarios
+---|---
+Sabatino | 7:00 a 14:00 hrs
 
-La modalidad Mixta se estudia los sábados de 7 a 14 hrs.
+## Precios de lista
 
+### Usualmente tu pagas en cada Cuatrimestre
+
+Concepto | Pesos
+---|---
+Inscripción | 800
+Mensualidad 1 | 1,860
+Mensualidad 2 | 1,860
+Mensualidad 3 | 1,860
+Mensualidad 4 | 1,860
+Total cada Cuatrimestre  | 8,240
 
 ## Becas
 
-<img src="http://innova.edu.mx/wp-content/uploads/2017/06/PromocionVerano2017.png" alt="" width="792" height="612" class="alignnone size-full wp-image-335">
+### Si eres candidato a Beca puedes recibir un descuento del 30% sobre cada mensualidad.
+### Adiconalmente, la inscripción del primer cuatrimestre es ¡Gratis!
+
+##### Primer Cuatrimestre
+
+Concepto | Pesos
+---|---
+Inscripción | Gratis
+Mensualidad 1 | 1,300
+Mensualidad 2 | 1,300
+Mensualidad 3 | 1,300
+Mensualidad 4 | 1,300
+Total Cuatrimestre I | 5,200
+
+##### A partir del Segundo Cuatrimestre
+
+Concepto | Pesos
+---|---
+Inscripción | 800
+Mensualidad 1 | 1,300
+Mensualidad 2 | 1,300
+Mensualidad 3 | 1,300
+Mensualidad 4 | 1,300
+Total cada Cuatrimestre | 6,000
+
+* _Los precios no incluen cuotas SEP de $528 pesos por cuatrimestre_
 
 Reconocimiento de Validez Oficial de Estudios ante la Secretaría de Educación Pública (RVOE SEP) 20140256
 
 # Plan de estudios
 
-<code>Al final del Plan de Estudios de la Licenciatura en Ciencias de la Comunicación los egresados serán capaces de analizar los conceptos, prácticas y procesos del fenómeno de la comunicación; así como de sus distintas teorías: antropológica, psicológica, cibernética, semiológica y estructuralista. También será capaz de analizar, y en su caso operar, las distintas especialidades: periodismo, publicidad y video.</code>
-
-## Semestre I
- 
-- Economía y comunicación 
-- Estado, sistema y poder político 
-- Introducción al estudio del lenguaje 
-- Taller de expresión oral y escrita 
-- Sociedad y comunicación 
-- Taller de investigación documental 
-
-## Semestre II
-
-- Introducción al estudio de la ciencia 
-- Geopolítica y comunicación 
-- Introducción a la teoría de la comunicación  
-- Taller de redacción  
-- Teorías del discurso 
-
-## Semestre III
-
-- Metodología de la investigación en comunicación 
-- Géneros periodísticos I 
-- Historia y procesos de la comunicación en México I 
-- Psicología y comunicación 
-- Semiótica 
-- Teorías de la comunicación I 
- 
-
-
-## Semestre IV
-
- 
-- Técnicas de investigación en comunicación 
-- Géneros periodísticos II 
-- Historia y procesos de la comunicación en México II 
-- Opinión pública y propaganda 
-- Teoría de la imagen 
-- Teorías de la comunicación II 
-
-## Semestre V
-
-- Discurso audiovisual 
-- Géneros periodísticos III 
-- Historia contemporánea 
-- Publicidad 
-- Procesamiento y análisis de la información 
-- Teorías de la comunicación III 
-
-
-## Semestre VI
-
-- Análisis de políticas de comunicación 
-- Metodologías de la investigación periodística 
-- Planeación y organización de empresas editoriales 
-- Taller de periodismo 
-- Psicología de la publicidad 
- 
-
-## Semestre VII
-
-  
-- Periodismo gráfico 
-- Periodismo y lenguaje narrativo 
-- Taller de periodismo especializado  
-- Periodismo y organización de las unidades de comunicación social 
-- La comunicación en los regímenes políticos de México 
-
-
-## Semestre VIII
-
-- Tecnologías de la información y comunicación para la producción audiovisual 
-- Teoría de la producción audiovisual 
-- Regulación de los medios audiovisuales 
-- Metodología de la investigación periodística en los medios audiovisuales  
-- Taller de diseño y organización de la producción audiovisual
+¡Pregunta por nuestro nuevo plan de estudios cuatrimestral!
 
 ### <strong>Atrévete a reinventar tu futuro</strong> y déjanos tu email para recibir más información.
 [contact-form subject='Contacto Innova Comunicacion'][contact-field label='Correo electrónico' type='email' required='1'/][/contact-form]

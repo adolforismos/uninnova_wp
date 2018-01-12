@@ -23,99 +23,62 @@ post_date: 2017-06-22 19:12:55
 
 ### La Licenciatura en Mercadotecnia la tenemos en dos modalidades, **Escolarizada y Mixta**.
 
-## Horarios 
+## Horarios Entresemana
 
-<img src="http://innova.edu.mx/wp-content/uploads/2017/06/PromocionVerano2017Horarios.png" alt="" width="792" height="612" class="alignnone size-full wp-image-334" />
+Turno | Horarios
+---|---
+Matutino | 8:00 a 14:00 hrs
+Vespertino | 17:00 a 21:00 hrs
 
-La modalidad Escolarizada se estudia entre semana, con dos horarios posibles, de 8 a 14 hrs. para el turno matutino, o de 17 a 21 hrs. para el turno vespertino.
 
-La modalidad Mixta se estudia los sábados de 7 a 14 hrs.
+## Precios de lista
+
+### Usualmente tu pagas en cada Cuatrimestre
+
+Concepto | Pesos
+---|---
+Inscripción | 800
+Mensualidad 1 | 1,860
+Mensualidad 2 | 1,860
+Mensualidad 3 | 1,860
+Mensualidad 4 | 1,860
+Total cada Cuatrimestre  | 8,240
 
 ## Becas
 
-<img src="http://innova.edu.mx/wp-content/uploads/2017/06/PromocionVerano2017.png" alt="" width="792" height="612" class="alignnone size-full wp-image-335" />
+### Si eres candidato a Beca puedes recibir un descuento del 30% sobre cada mensualidad.
+### Adiconalmente, la inscripción del primer cuatrimestre es ¡Gratis!
+
+##### Primer Cuatrimestre
+
+Concepto | Pesos
+---|---
+Inscripción | Gratis
+Mensualidad 1 | 1,300
+Mensualidad 2 | 1,300
+Mensualidad 3 | 1,300
+Mensualidad 4 | 1,300
+Total Cuatrimestre I | 5,200
+
+##### A partir del Segundo Cuatrimestre
+
+Concepto | Pesos
+---|---
+Inscripción | 800
+Mensualidad 1 | 1,300
+Mensualidad 2 | 1,300
+Mensualidad 3 | 1,300
+Mensualidad 4 | 1,300
+Total cada Cuatrimestre | 6,000
+
+* _Los precios no incluen cuotas SEP de $528 pesos por cuatrimestre_
 
 Reconocimiento de Validez Oficial de Estudios ante la Secretaría de Educación Pública (RVOE SEP) para la Escolarizada 20130381 y para la Mixta 20130382.
 
 
-# Plan te estudio (para ambas modalidades)
+# Plan te estudio 
 
-<code>Al finalizar el Plan de Estudios de la Licenciatura en Mercadotecnia los egresados serán capaces de analizar las condiciones tácticas, estratégicas y directas del mercado. Así como las operaciones del mismo: las ventas, la promoción, la publicidad y los medios publicitarios. Serán capaces de analizar y operar los elementos básicos de la administración, en general, y de la administración del producto, en lo particular. Analizarán los procesos de compra-venta y los procesos que los acompañan: económicos, psicológicos, jurídicos e informáticos. </code>
-
-## Semestre I
-
-* Introducción a la mercadotecnia
-* Introducción a la administración
-* Matemáticas para la administración
-* Metodología de la investigación 
-* Microeconomía 
-* Informática I
-
-## Semestre II
-
-* Introducción a la investigación mercadológica
-* Ventas
-* Método estadístico
-* Psicología social
-* Macroeconomía
-* Informática II
-
-
-## Semestre III
-
-* Mercadotecnia táctica
-* Investigación de mercados aplicada
-* Venta especializada
-* Estadística aplicada
-* Psicología aplicada a la mercadotecnia
-* Contabilidad básica
-
-
-## Semestre IV
-
-* Mercadotecnia estratégica
-* Introducción a la publicidad
-* Promoción de ventas y relaciones públicas
-* Investigación de operaciones
-* Taller de expresión oral y escrita
-* Derecho I
-
-## Semestre V
-
-* Mercadotecnia directa
-* Estudio y desarrollo de mercados
-* Administración de ventas
-* Medios publicitarios
-* Administración estratégica
-* Derecho II
-
-
-## Semestre VI
-
-* Administración de productos
-* Administración de compras
-* Canales de distribución logística
-* Geografía económica y política de México 
-* Estudio e interpretación de estados financieros
-* Derecho III
-
-
-## Semestre VII
-
-* Taller de mercadotécnica táctica
-* Taller de dirección de ventas
-* Administración de la comunicación
-* Taller de desarrollo de habilidades directivas
-* Tendencias económicas
-* Crédito y cobranzas 
-
-## Semestre VIII
-
-* Taller de dirección comercial y mercadotecnia
-* Taller de mercadotecnia internacional
-* Taller de comunicación comercial
-* Taller de desarrollo de negocios
-
+¡Pregunta por nuestro nuevo plan de estudios cuatrimestral!
 
 ### <strong>Atrévete a reinventar tu futuro</strong> y déjanos tu email para recibir más información.
 [contact-form subject='Contacto Innova Mercadotecnia'][contact-field label='Correo electrónico' type='email' required='1'/][/contact-form]

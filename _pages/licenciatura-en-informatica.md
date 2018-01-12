@@ -19,94 +19,61 @@ post_date: 2017-06-20 23:10:27
 
 ### La Licenciatura en Informática la tenemos en modalidad **Escolarizada**.
 
-## Horarios 
+## Horarios Entresemana
 
-<img src="http://innova.edu.mx/wp-content/uploads/2017/06/PromocionVerano2017Horarios.png" alt="" width="792" height="612" class="alignnone size-full wp-image-334" />
+Turno | Horarios
+---|---
+Matutino | 8:00 a 14:00 hrs
+Vespertino | 17:00 a 21:00 hrs
 
-La modalidad Escolarizada se estudia entre semana, con dos horarios posibles, de 8 a 14 hrs. para el turno matutino, o de 17 a 21 hrs. para el turno vespertino.
 
-(Si buscas horario sabatino, tenemos la **Licenciatura en Sistemas Computacionales**, revísala <a href="http://innova.edu.mx/licenciatura-en-sistemas-computacionales/">Sistemas Computacionales</a>.)
+## Precios de lista
+
+### Usualmente tu pagas en cada Cuatrimestre
+
+Concepto | Pesos
+---|---
+Inscripción | 800
+Mensualidad 1 | 1,860
+Mensualidad 2 | 1,860
+Mensualidad 3 | 1,860
+Mensualidad 4 | 1,860
+Total cada Cuatrimestre  | 8,240
 
 ## Becas
 
-<img src="http://innova.edu.mx/wp-content/uploads/2017/06/PromocionVerano2017.png" alt="" width="792" height="612" class="alignnone size-full wp-image-335" />
+### Si eres candidato a Beca puedes recibir un descuento del 30% sobre cada mensualidad.
+### Adiconalmente, la inscripción del primer cuatrimestre es ¡Gratis!
+
+##### Primer Cuatrimestre
+
+Concepto | Pesos
+---|---
+Inscripción | Gratis
+Mensualidad 1 | 1,300
+Mensualidad 2 | 1,300
+Mensualidad 3 | 1,300
+Mensualidad 4 | 1,300
+Total Cuatrimestre I | 5,200
+
+##### A partir del Segundo Cuatrimestre
+
+Concepto | Pesos
+---|---
+Inscripción | 800
+Mensualidad 1 | 1,300
+Mensualidad 2 | 1,300
+Mensualidad 3 | 1,300
+Mensualidad 4 | 1,300
+Total cada Cuatrimestre | 6,000
+
+* _Los precios no incluen cuotas SEP de $528 pesos por cuatrimestre_
 
 Reconocimiento de Validez Oficial de Estudios ante la Secretaría de Educación Pública (RVOE SEP) 20130378
 
 # Plan de estudios
 
-<code>Al finalizar el Plan de Estudios de la Licenciatura en Informática los egresados serán capaces de analizar el procesamiento automático de la información hecho por las computadoras. Serán capaces de analizar y operar distintos modelos matemáticos, estadísticos y algorítmicos, en el diseño de investigaciones cuantitativas. También serán capaces de analizar el diseño y la operación de computadoras, de redes y teleprocesos, en operaciones administrativas. Podrán analizar sistemas de ingeniería de software y procesos informáticos de empresas. </code>
-
-
-## Semestre I
-
-- Organización  de Computadoras I 
-- Matemáticas Discretas I 
-- Introducción a la Computación 
-- Algoritmos I 
-
-<img src="http://innova.edu.mx/wp-content/uploads/2017/07/hack2-300x198.png" alt="" width="300" height="198" class="alignnone size-medium wp-image-368" />
-
-## Semestre II
- 
-- Técnicas de Comunicación   
-- Organización de Computadoras II 
-- Probabilidad y Estadística  I                                      
-- Sistemas I (Procesamiento de Datos) 
-- Algoritmos II 
- 
-
-## Semestre III
-
-- Métodos de Investigación 
-- Organización de Computadoras III 
-- Matemáticas Discretas II 
-- Sistemas II (Bases de Datos) 
-- Algoritmos III 
-
- 
-## Semestre IV
-
-- Contabilidad  
-- Álgebra Lineal 
-- Sistemas III (Procesos de Lotes) 
-- Programación de Sistemas 
-- Análisis de Algoritmos y Lenguajes 
-
-## Semestre V
-
-- Administración 
-- Investigación de Operaciones I 
-- Graficación 
-- Sistemas Operativos 
-- Ingeniería de Software  
-
-## Semestre VI
-
-- Redes y Teleproceso 
-- Probabilidad y Estadística II 
-- Sistemas IV (Bases de Datos Avanzadas) 
-- Inteligencia Artificial 
-- Matemáticas Financieras 
-
-<img src="http://innova.edu.mx/wp-content/uploads/2017/07/Hack1-300x200.png" alt="" width="300" height="200" class="alignleft size-medium wp-image-367" />
-
-## Semestre VII
-
-- Control De Proyectos 
-- Seminario de Metodología de la Investigación 
-- Investigación de Operaciones II 
-- Informática de la Empresa I 
-- Construcción de Paquetes  Software 
-
-## Semestre VIII
-
-- Administración de Recursos Informáticos 
-- Sistemas V  (Soporte a Toma de Decisiones) 
-- Informática de la Empresa II 
-- Auditoria  Informática  
-- Seminario de Taller de Investigación 
-- Seminario de Titulación 
+¡Pregunta por nuestro nuevo plan de estudios cuatrimestral!
  
 ### <strong>Atrévete a reinventar tu futuro</strong> y déjanos tu email para recibir más información.
 [contact-form subject='Contacto Innova Informatica'][contact-field label='Correo electrónico' type='email' required='1'/][/contact-form]

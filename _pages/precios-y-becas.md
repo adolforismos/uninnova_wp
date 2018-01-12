@@ -10,22 +10,47 @@ post_date: 2017-07-07 12:59:42
 ---
 ## Licenciaturas
 
-### La primera inscripción es gratis este Verano 2017 en todos los nuevos ingresos.
+## Precios de lista
 
-### Y además este **Verano 2017** tenemos 2 becas según horarios.
+### Usualmente tu pagas en cada Cuatrimestre
 
-### Becas del **30%** de descuento para horarios matutinos entre semana o sabatino.
+Concepto | Pesos
+---|---
+Inscripción | 800
+Mensualidad 1 | 1,860
+Mensualidad 2 | 1,860
+Mensualidad 3 | 1,860
+Mensualidad 4 | 1,860
+Total cada Cuatrimestre  | 8,240
 
-### Becas del **50%** de descuento para horario entre semana vespertino.
+## Becas
 
-Válido para el ciclo 2018-1 (iniciamos próximo agosto).
-El pago de Derechos ante la SEP es de $528 pesos por semestre y se hace por separado.
+### Si eres candidato a Beca puedes recibir un descuento del 30% sobre cada mensualidad.
+### Adiconalmente, la inscripción del primer cuatrimestre es ¡Gratis!
 
-[caption id="attachment_335" align="alignnone" width="792"]<img src="http://innova.edu.mx/wp-content/uploads/2017/06/PromocionVerano2017.png" alt="" width="792" height="612" class="size-full wp-image-335" /> Las Becas en Universidad Innova plantel Nezahualcóyotl para este Verano 2017 son del 30% pero pregunta por opciones hasta del 50%[/caption]
+##### Primer Cuatrimestre
 
-### Estos son los horarios:
+Concepto | Pesos
+---|---
+Inscripción | Gratis
+Mensualidad 1 | 1,300
+Mensualidad 2 | 1,300
+Mensualidad 3 | 1,300
+Mensualidad 4 | 1,300
+Total Cuatrimestre I | 5,200
 
-[caption id="attachment_334" align="alignnone" width="792"]<img src="http://innova.edu.mx/wp-content/uploads/2017/06/PromocionVerano2017Horarios.png" alt="Matutino de 8 a 14 hrs, Vespertino de 17 a 21 hrs., Sabatino de 7 a 14 hrs." width="792" height="612" class="size-full wp-image-334" /> Nuestros horarios para este verano 2017 en el plantel de Universidad Innova Nezahualcóyotl[/caption]
+##### A partir del Segundo Cuatrimestre
+
+Concepto | Pesos
+---|---
+Inscripción | 800
+Mensualidad 1 | 1,300
+Mensualidad 2 | 1,300
+Mensualidad 3 | 1,300
+Mensualidad 4 | 1,300
+Total cada Cuatrimestre | 6,000
+
+* _Los precios no incluen cuotas SEP de $528 pesos por cuatrimestre_
 
 ## Posgrados
 

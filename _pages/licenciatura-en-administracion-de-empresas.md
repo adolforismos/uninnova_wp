@@ -23,98 +23,59 @@ post_date: 2017-06-22 19:14:44
 
 ### Este plan de estudios fue diseñado y aprobado por la SEP apenas en el 2014, por lo que difícilmente encontrarás un programa tan actualizado, a la vanguardia y pensado en los nuevos tiempos.
 
-### La Licenciatura en Administración de Empresas la tenemos en modalidad **Mixta**.
 
-## Horarios
 
-<img src="http://innova.edu.mx/wp-content/uploads/2017/06/PromocionVerano2017Horarios.png" alt="" width="792" height="612" class="alignnone size-full wp-image-334">
+## Horarios Sábados
 
-La modalidad Mixta se estudia los sábados de 7 a 14 hrs.
+Turno | Horarios
+---|---
+Sabatino | 7:00 a 14:00 hrs
+
+## Precios de lista
+
+### Usualmente tu pagas en cada Cuatrimestre
+
+Concepto | Pesos
+---|---
+Inscripción | 800
+Mensualidad 1 | 1,860
+Mensualidad 2 | 1,860
+Mensualidad 3 | 1,860
+Mensualidad 4 | 1,860
+Total cada Cuatrimestre  | 8,240
 
 ## Becas
 
-<img src="http://innova.edu.mx/wp-content/uploads/2017/06/PromocionVerano2017.png" alt="" width="792" height="612" class="alignnone size-full wp-image-335">
+### Si eres candidato a Beca puedes recibir un descuento del 30% sobre cada mensualidad.
+### Adiconalmente, la inscripción del primer cuatrimestre es ¡Gratis!
 
-Reconocimiento de Validez Oficial de Estudios ante la Secretaría de Educación Pública (RVOE SEP) 20140253
+##### Primer Cuatrimestre
+
+Concepto | Pesos
+---|---
+Inscripción | Gratis
+Mensualidad 1 | 1,300
+Mensualidad 2 | 1,300
+Mensualidad 3 | 1,300
+Mensualidad 4 | 1,300
+Total Cuatrimestre I | 5,200
+
+##### A partir del Segundo Cuatrimestre
+
+Concepto | Pesos
+---|---
+Inscripción | 800
+Mensualidad 1 | 1,300
+Mensualidad 2 | 1,300
+Mensualidad 3 | 1,300
+Mensualidad 4 | 1,300
+Total cada Cuatrimestre | 6,000
+
+* _Los precios no incluen cuotas SEP de $528 pesos por cuatrimestre_
 
 # Plan de estudios
 
-<code>El Plan de Estudios de la Licenciatura de Administración de Empresas tiene como finalidad que sus participantes alcancen un conocimiento (teórico-práctico) amplio, profundo y sólido de los contenidos esenciales, científicos y técnicos, que componen la carrera de Administración de Empresas.
-Pretende que los alumnos adquieran en forma general, y particular los conocimientos de la administración científica, desarrollada en el siglo XX. Con los contenidos normativos de la administración aplicados en distintos entornos para eficientar los recursos y  en el desarrollo de las empresas. En las distintas áreas y procesos de ésta: administración financiera, administración organizacional, administración de recursos humanos, administración de relaciones industriales. Incorporando a su saber las técnicas de una administración por objetivos o bajo un modelo de calidad. Además que incorporen a su saber el manejo de la ley, las normas hacendarias y el uso de la informática.</code>
-
-## Semestre I
-
-* Administración I
-* Metodología de la Investigación
-* Contabilidad I
-* Matemáticas
-* Introducción al Derecho
-
-## Semestre II
-
-* Administración II
-* Microeconomía
-* Contabilidad II
-* Estadística I
-* Derecho Mercantil
-
-
-## Semestre III
-
-* Diseño de Estructuras y Reingeniería de Procesos
-* Macroeconomía
-* Contabilidad Administrativa I
-* Estadística II
-* Derecho Laboral
-
-
-## Semestre IV
-
-* Dirección
-* Política Económica y la Empresa
-* Contabilidad Administrativa II
-* Matemáticas Financieras
-* Derecho Constitucional y Administrativo
-* Administración  de la Micro, pequeña y Mediana Empresa
-
-## Semestre V
-
-* Administración de Recursos Humanos I
-* Mercadotecnia I
-* Análisis e Interpretación de Estados Financieros
-* Investigación de Operaciones I
-* Desarrollo de Emprendedores
-* Marco Jurídico de la Empresa
-
-## Semestre VI
-
-* Administración de Recursos Humanos II
-* Mercadotecnia II
-* Finanzas I
-* Investigación de Operaciones II
-* Presupuestos
-* Administración de la Producción I
-* Administración de Negocios Internacionales
-
-
-## Semestre VII
-
-* Administración Estratégica
-* Seminario de Mercadotecnia
-* Finanzas II
-* Impuestos I
-* Administración del Comercio Exterior
-* Administración de la Producción II
-
-## Semestre VIII
-
-* Comportamiento Organizacional
-* Seminario de Sistemas de Información
-* Seminario de Finanzas
-* Impuestos II
-* Auditoria Administrativa o Consultoria
-* Seminario de Calidad Total
-* Seminario de Titulación
+¡Pregunta por nuestro nuevo plan de estudios cuatrimestral!
 
 ### <strong>Atrévete a reinventar tu futuro</strong> y déjanos tu email para recibir más información.
 [contact-form subject='Contacto Innova Administracion Empresas'][contact-field label='Correo electrónico' type='email' required='1'/][/contact-form]

@@ -23,95 +23,59 @@ post_date: 2017-06-21 09:43:14
 
 ### La Licenciatura en Derecho la tenemos en modalidad **Mixta**.
 
-## Horarios
+## Horarios Sábados
 
-<img src="http://innova.edu.mx/wp-content/uploads/2017/06/PromocionVerano2017Horarios.png" alt="" width="792" height="612" class="alignnone size-full wp-image-334">
+Turno | Horarios
+---|---
+Sabatino | 7:00 a 14:00 hrs
 
-La modalidad Mixta se estudia los sábados de 7 a 14 hrs.
+## Precios de lista
+
+### Usualmente tu pagas en cada Cuatrimestre
+
+Concepto | Pesos
+---|---
+Inscripción | 800
+Mensualidad 1 | 1,860
+Mensualidad 2 | 1,860
+Mensualidad 3 | 1,860
+Mensualidad 4 | 1,860
+Total cada Cuatrimestre  | 8,240
 
 ## Becas
 
-<img src="http://innova.edu.mx/wp-content/uploads/2017/06/PromocionVerano2017.png" alt="" width="792" height="612" class="alignnone size-full wp-image-335">
+### Si eres candidato a Beca puedes recibir un descuento del 30% sobre cada mensualidad.
+### Adiconalmente, la inscripción del primer cuatrimestre es ¡Gratis!
+
+##### Primer Cuatrimestre
+
+Concepto | Pesos
+---|---
+Inscripción | Gratis
+Mensualidad 1 | 1,300
+Mensualidad 2 | 1,300
+Mensualidad 3 | 1,300
+Mensualidad 4 | 1,300
+Total Cuatrimestre I | 5,200
+
+##### A partir del Segundo Cuatrimestre
+
+Concepto | Pesos
+---|---
+Inscripción | 800
+Mensualidad 1 | 1,300
+Mensualidad 2 | 1,300
+Mensualidad 3 | 1,300
+Mensualidad 4 | 1,300
+Total cada Cuatrimestre | 6,000
+
+* _Los precios no incluen cuotas SEP de $528 pesos por cuatrimestre_
 
 Reconocimiento de Validez Oficial de Estudios ante la Secretaría de Educación Pública (RVOE SEP) 20140254
 
-<code>Al finalizar el Plan de Estudios de la Licenciatura en Derecho los egresados serán capaces de analizar los contenidos de la ley, desde sus orígenes, hasta las condiciones actuales, pasando por distintos momentos significativos en la impartición de justicia. Serán capaces de analizar y, en su caso, poner en práctica los distintos contenidos (o especialidades) del derecho: fiscal, laboral, penal, civil, mercantil; así como de analizar y diseñar el dictado de una demanda, de una orden de ejecución, de una denuncia de hechos, de una consignación, de un amparo, de un acto de inejecución.</code>
+## Plan de estudios
 
-## Semestre I
- 
- 
-- Derecho Civil I 
-- Derecho Romano I 
-- Introducción al Estudio del Derecho I 
-- Teoría Económica 
-- Teoría Política I 
-- Seminario de metodología de la investigación 
-
-## Semestre II
-
-- Derecho Civil II 
-- Derecho Romano II 
-- Introducción al Estudio del Derecho II 
-- Derecho Penal I 
-- Teoría Política II 
-- Seminario de bienes y sucesiones 
-
-## Semestre III
-
-- Derecho Civil III 
-- Derecho Constitucional I 
-- Derecho Mercantil I 
-- Derecho Penal II 
-- Metodología Jurídica  
-- Seminario de derecho penal I 
- 
-## Semestre IV
-- Derecho Civil IV 
-- Derecho Constitucional II 
-- Derecho Mercantil II 
-- Derecho Penal III 
-- Derecho Internacional Publico 
-- Seminario de derecho penal II 
-
-## Semestre V
-
-- Derecho Administrativo 
-- Derecho Agrario 
-- Derecho Internacional Privado 
-- Garantías Constitucionales 
-- Teoría General del Proceso 
-- Seminario de derecho laboral 
- 
-## Semestre VI
-
-- Amparo I  
-- Derecho Fiscal I  
-- Derecho Laboral  
-- Derecho Procesal Civil  
-- Derecho Procesal Penal  
-- Seminario de derecho agrario  
- 
-## Semestre VII
- 
-- Amparo II 
-- Derecho Fiscal II 
-- Derecho Procesal Laboral II 
-- Derecho Procesal Administrativo 
-- Derecho Procesal Mercantil 
-- Practica Forense Penal 
-- Seminario de titulación  I 
- 
-
-
-## Semestre VIII
-
-- Amparo III 
-- Filosofía del Derecho 
-- Medicina Forense 
-- Concursos Mercantiles 
-- Seguridad Social 
-- Practica Forense Civil y Mercantil 
-- Seminario de titulación II
+¡Pregunta por nuestro nuevo plan de estudios cuatrimestral!
 
 ### <strong>Atrévete a reinventar tu futuro</strong> y déjanos tu email para recibir más información.
 [contact-form subject='Contacto Innova Derecho'][contact-field label='Correo electrónico' type='email' required='1'/][/contact-form]

@@ -10,7 +10,6 @@ published: true
 post_date: 2017-06-22 20:14:28
 ---
 
-# ¡Reabrimos inscripciones durante octubre!
 
 [video width="1280" height="720" mp4="http://innova.edu.mx/wp-content/uploads/2017/06/psicologia.mp4"][/video]
 

@@ -11,7 +11,7 @@ published: true
 post_date: 2017-06-22 20:10:16
 ---
 
-# ¡Reabrimos inscripciones durante octubre!
+
 
 ### La movilidad, la capacidad de viajar, desplazarse, es una de las grandes características del presente siglo. 
 
@@ -28,6 +28,7 @@ post_date: 2017-06-22 20:10:16
 ### Este plan de estudios para la Licenciatura en Administración Turística fue actualizado y aprobado por la SEP apenas este 2017, por lo que difícilmente encontrarás un programa tan actualizado, a la vanguardia y pensado en los nuevos tiempos.
 
 ### La Licenciatura en Administración Turística la tenemos en modalidad, **No Escolarizada**.
+
 ## Horarios Entresemana
 
 Turno | Horarios

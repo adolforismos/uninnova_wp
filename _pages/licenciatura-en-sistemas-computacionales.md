@@ -10,7 +10,7 @@ published: true
 post_date: 2017-06-22 19:16:17
 ---
 
-# ¡Reabrimos inscripciones durante octubre!
+
 
 ### Es indudable la trascendencia de las computadoras en la vida contemporánea, ya sea desde la imagen clásica de una PC o *personal computer* o a la sofisticación de los equipos celulares o el llamado *internet de las cosas*.
 
