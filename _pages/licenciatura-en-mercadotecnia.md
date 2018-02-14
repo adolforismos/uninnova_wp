@@ -89,8 +89,6 @@ Macroeconomía
 Contabilidad básica 
 Matemáticas aplicadas
 
-
-
 ## Cuatrimestre II
 
 Fundamentos de la mercadotecnia 
@@ -98,7 +96,6 @@ Derecho fiscal
 Microeconomía 
 Administración financiera 
 Estadística 
-
 
 ## Cuatrimestre III 
 
@@ -108,8 +105,6 @@ Análisis del entorno económico político y social
 Administración de capital humano
 Informática aplicada
 
-
-
 ## Cuatrimestre IV
 
 Mercadotecnia de productos 
@@ -118,8 +113,6 @@ Comunicación organizacional
 Análisis de productos y precios  
 El papel de las redes sociales y la mercadotecnia
 
-
-
 ## Cuatrimestre V
 
 Mercadotecnia de servicios 
@@ -127,8 +120,6 @@ Técnicas de investigación en Mercados
 Finanzas en mercadotecnia 
 Publicidad 
 Social media 
-
-
 
 ## Cuatrimestre VI 
 
@@ -146,7 +137,6 @@ Comportamiento del consumidor
 Producción y dirección de Campañas publicitarias 
 Desarrollo de nuevas empresas 
 
-
 ## Cuatrimestre VIII
 
 Diseño de mercadotecnia electrónica 
@@ -155,7 +145,6 @@ Medios y sistemas de producción de pre-prensa
 Taller de creatividad e innovación 
 Taller de estrategias de negociación 
 
-
 ## Cuatrimestre IX
 
 Diseño editorial para la mercadotecnia 
@@ -163,7 +152,6 @@ Comunicación comercial e imagen corporativa
 Taller de desarrollo empresarial
 Nuevas tendencias de comunicación política y electoral 
 Seminario de tesis 
-
 
 
 ### <strong>Atrévete a reinventar tu futuro</strong> y déjanos tu email para recibir más información.

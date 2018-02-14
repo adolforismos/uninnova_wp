@@ -93,8 +93,6 @@ Redacción de Textos Académicos en Español
 Metodología de la Investigación
 Informática Aplicada en el Desarrollo de la Lengua Inglesa
 
-
-
 ## Cuatrimestre II
 
 Didáctica de la Lengua Inglesa
@@ -103,9 +101,7 @@ Morfología del Español
 Morfología del Inglés
 Lingüística I
 
-
 ## Cuatrimestre III 
-
 
 Antecedentes Históricos de la Lengua Inglesa
 Estrategias Didácticas para la Comprensión de la Lectura y de la Producción Oral
@@ -113,16 +109,13 @@ Nuevas Tecnologías Aplicadas a la Enseñanza del Inglés
 Composición de Textos en Español
 Lingüística II
 
-
 ## Cuatrimestre IV
-
 
 Literatura Inglesa
 Enseñanza del Español para Extranjeros
 Sintaxis del Español
 Sintaxis del Inglés
 Inglés I
-
 
 ## Cuatrimestre V
 
@@ -132,7 +125,6 @@ Iniciación a la Traducción
 Lingüística Aplicada
 Inglés II
 
-
 ## Cuatrimestre VI 
 
 Iniciación a la Literatura Hispanoamericana Contemporánea
@@ -140,7 +132,6 @@ Competencia Discursiva en Ingles
 Estudios de la Traducción
 Sistemas Lingüísticos
 Inglés III 
-
 
 ## Cuatrimestre VII 
 
@@ -150,7 +141,6 @@ Lectura y Redacción del Inglés
 Sociolingüística y Psicolingüística
 Inglés IV
 
-
 ## Cuatrimestre VIII
 
 Comunicación Intercultural
@@ -159,7 +149,6 @@ Taller de Traducción de Textos Especializados
 Seminario de Investigación de Lingüística Aplicada
 Seminario de Tesis I
 
-
 ## Cuatrimestre IX
 
 Administración Educativa para el Área de las Lenguas
@@ -167,8 +156,6 @@ Planeación Educativa
 Técnicas y Habilidades para la Traducción
 Axiología y Práctica Profesional
 Seminario de Tesis II
-
-
 
 ### <strong>Atrévete a reinventar tu futuro</strong> y déjanos tu email para recibir más información.
 [contact-form subject='Contacto Innova Lengua Inglesa'][contact-field label='Correo electrónico' type='email' required='1'/][/contact-form]

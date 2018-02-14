@@ -73,9 +73,7 @@ Reconocimiento de Validez Oficial de Estudios ante la Secretaría de Educación 
 
 # Plan de estudios
 
-<code>Al finalizar el Plan de Estudios de la Licenciatura en Informática: 
-
-Identificará los elementos teóricos y metodológicos que fundamentan a la Informática: fundamentos de programación, sistemas operativos, razonamiento lógico matemático, algoritmos, bases de datos y cálculo diferencial e integral, así mismo con las disciplinas que auxilian su desarrollo; administración, derecho, economía, contabilidad, matemáticas, estadística y mercadotecnia, con la finalidad de resolver conflictos emergentes a las problemáticas actuales de la disciplina relacionadas con el desarrollo de aplicaciones en manejo de datos, derecho informático, arquitectura de computadoras, telecomunicaciones, diseño orientado a objetos, desarrollo de sitios WEB, planeación de proyectos informáticos, ingeniería de software y programación e implementación de sistemas.
+<code>Al finalizar el Plan de Estudios de la Licenciatura en Informática, el alumno identificará los elementos teóricos y metodológicos que fundamentan a la Informática: fundamentos de programación, sistemas operativos, razonamiento lógico matemático, algoritmos, bases de datos y cálculo diferencial e integral, así mismo con las disciplinas que auxilian su desarrollo; administración, derecho, economía, contabilidad, matemáticas, estadística y mercadotecnia, con la finalidad de resolver conflictos emergentes a las problemáticas actuales de la disciplina relacionadas con el desarrollo de aplicaciones en manejo de datos, derecho informático, arquitectura de computadoras, telecomunicaciones, diseño orientado a objetos, desarrollo de sitios WEB, planeación de proyectos informáticos, ingeniería de software y programación e implementación de sistemas.
 </code>
 
 ## Cuatrimestre I
@@ -86,8 +84,6 @@ Macroeconomía
 Contabilidad Básica 
 Matemáticas Aplicadas
 
-
-
 ## Cuatrimestre II
 
 Fundamentos de la Mercadotecnia 
@@ -95,7 +91,6 @@ Derecho Fiscal
 Microeconomía 
 Administración Financiera 
 Estadística 
-
 
 ## Cuatrimestre III 
 
@@ -105,8 +100,6 @@ Análisis del entorno Económico Político y Social
 Administración de Capital Humano
 Informática Aplicada
 
-
-
 ## Cuatrimestre IV
 
 Introducción a la programación
@@ -114,8 +107,6 @@ Sistemas operativos
 Razonamiento Lógico-Matemático para la Toma de Decisiones
 Informática I
 Algoritmos I
-
-
 
 ## Cuatrimestre V
 
@@ -125,7 +116,6 @@ Calculo diferencial e integral
 Informática II
 Algoritmos II 
 
-
 ## Cuatrimestre VI 
 
 Programación II 
@@ -134,15 +124,13 @@ Matemáticas financieras
 Informática III 
 Derecho informático 
 
-
 ## Cuatrimestre VII 
 
 Arquitectura de computadoras 
 Telecomunicaciones I 	
 Estadística descriptiva e inferencial 			
 Análisis y Diseño Orientado a Objetos		
- Metodología de la Investigación
-
+Metodología de la Investigación
 
 ## Cuatrimestre VIII
 
@@ -151,7 +139,6 @@ Telecomunicaciones II
 Prácticas profesionales I	
 Programación Orientada a Objetos	
 Seminario de tesis I
-
 
 ## Cuatrimestre IX
 
@@ -162,6 +149,5 @@ Programación e Implementación de Sistemas
 Seminario de Tesis II
 
 
- 
 ### <strong>Atrévete a reinventar tu futuro</strong> y déjanos tu email para recibir más información.
 [contact-form subject='Contacto Innova Informatica'][contact-field label='Correo electrónico' type='email' required='1'/][/contact-form]

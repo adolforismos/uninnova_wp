@@ -86,8 +86,6 @@ Macroeconomía
 Contabilidad Básica 
 Matemáticas Aplicadas
 
-
-
 ## Cuatrimestre II
 
 Fundamentos de la Mercadotecnia 
@@ -95,7 +93,6 @@ Derecho Fiscal
 Microeconomía 
 Administración Financiera 
 Estadística 
-
 
 ## Cuatrimestre III 
 
@@ -105,8 +102,6 @@ Análisis del entorno Económico Político y Social
 Administración de Capital Humano
 Informática Aplicada
 
-
-
 ## Cuatrimestre IV
 
 Administración del personal 
@@ -114,8 +109,6 @@ Presupuestos
 Sociología organizativa 
 Matemáticas financieras 
 Software de aplicaciones 
-
-
 
 ## Cuatrimestre V
 
@@ -125,7 +118,6 @@ Comercio exterior
 Contabilidad administrativa 
 Paquetería contable y administrativa 
 
-
 ## Cuatrimestre VI 
 
 Administración de logística y abasto 
@@ -133,7 +125,6 @@ Finanzas II
 Mercado financiero y bursátil 
 Economía internacional 
 Derecho administrativo 
-
 
 ## Cuatrimestre VII 
 
@@ -143,7 +134,6 @@ Líderes y emprendedores empresariales
 Auditoría administrativa 
 Derecho laboral 
 
-
 ## Cuatrimestre VIII
 
 Comercio electrónico 
@@ -152,7 +142,6 @@ Desarrollo de empresas y de negocios
 Dirección de proyectos y equipos de trabajo 
 Derecho mercantil 
 
-
 ## Cuatrimestre IX
 
 Capital humano y negocios 
@@ -160,7 +149,6 @@ Capital humano y negocios
 Simuladores empresariales 
 Modelos de negocio en las empresas 
 Derecho de la propiedad industrial y la competencia 
-
 
 
 ### <strong>Atrévete a reinventar tu futuro</strong> y déjanos tu email para recibir más información.

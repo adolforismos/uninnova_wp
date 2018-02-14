@@ -79,13 +79,11 @@ Reconocimiento de Validez Oficial de Estudios ante la Secretaría de Educación 
 
 ## Cuatrimestre I
 
-
 Fundamentos de la Administración
 Conceptos jurídicos Fundamentales
 Macroeconomía 
 Contabilidad Básica 
 Matemáticas Aplicadas
-
 
 ## Cuatrimestre II
 
@@ -95,7 +93,6 @@ Microeconomía
 Administración Financiera 
 Estadística 
 
-
 ## Cuatrimestre III 
 
 Mercadotecnia Estratégica 
@@ -104,17 +101,13 @@ Análisis del entorno Económico Político y Social
 Administración de Capital Humano
 Informática Aplicada
 
-
-
 ## Cuatrimestre IV
-
 
 Plan de Negocios
 Derecho Mercantil
 Introducción al Turismo 
 Introducción a los Negocios Internacionales
 Administración de Negocios Internacionales
-
 
 ## Cuatrimestre V
 
@@ -124,7 +117,6 @@ Hotelería Rural
 Investigación de Estudio de Mercado dentro del Marco Internacional
 Finanzas Corporativas
 
-
 ## Cuatrimestre VI 
 
 Mercadotecnia Turística
@@ -132,7 +124,6 @@ Derecho Turístico
 Planificación Turística
 Administración de Comercio Exterior
 Finanzas Internacionales 
-
 
 ## Cuatrimestre VII 
 
@@ -142,7 +133,6 @@ Diseño y Planeación de Eventos
 Nuevos Modelos de Negocios Internacionales
 Técnicas de Ventas Internacionales
 
-
 ## Cuatrimestre VIII
 
 Agencias de Viajes
@@ -151,7 +141,6 @@ Producción de Eventos
 Auditoria de Empresas Internacionales
 Técnicas de Negociación y Habilidades directivas 
 
-
 ## Cuatrimestre IX
 
 Cruceros
@@ -159,7 +148,6 @@ Legislación Arancelaría
 Relación de Eventos 
 Empresas de transportación 
 Seminario de Tesis 
-
 
 
 ### <strong>Atrévete a reinventar tu futuro</strong> y déjanos tu email para recibir más información.

@@ -90,8 +90,6 @@ Macroeconomía
 Contabilidad Básica 
 Matemáticas Aplicadas
 
-
-
 ## Cuatrimestre II
 
 Fundamentos de la Mercadotecnia 
@@ -99,7 +97,6 @@ Derecho Fiscal
 Microeconomía 
 Administración Financiera 
 Estadística 
-
 
 ## Cuatrimestre III 
 
@@ -109,8 +106,6 @@ Análisis del entorno Económico Político y Social
 Administración de Capital Humano
 Informática Aplicada
 
-
-
 ## Cuatrimestre IV
 
 Introducción a la Teoría de la Comunicación
@@ -118,8 +113,6 @@ Taller de Lectura y Redacción I
 Sociedad y Comunicación
 Historia y Procesos de la Comunicación en México
 Géneros Periodísticos I
-
-
 
 ## Cuatrimestre V
 
@@ -129,7 +122,6 @@ Taller de Investigación Documental
 El guion
 Géneros Periodísticos II
 
-
 ## Cuatrimestre VI 
 
 Psicología de la Publicidad
@@ -137,7 +129,6 @@ Taller de Lectura y Redacción III
 Semiótica
 Periodismo por Radio
 Opinión Pública y Propaganda
-
 
 ## Cuatrimestre VII 
 
@@ -147,7 +138,6 @@ Tecnologías de la Información y Comunicación para la Producción Audiovisual
 Periodismo por Televisión
 Metodología de la Investigación Periodística
 
-
 ## Cuatrimestre VIII
 
 Taller de Campañas de Publicidad Social y Políticas Públicas
@@ -156,7 +146,6 @@ Taller de Diseño y Organización de la Producción Audiovisual
 Periodismo Gráfico
 Seminario de Tesis I
 
-
 ## Cuatrimestre IX
 
 Fotografía Periodística
@@ -164,7 +153,6 @@ Regulación de los medios Electrónicos y el Impacto de las Redes Sociales
 Periodismo Especializado
 Periodismo y Lenguaje Narrativo
 Seminario de Tesis II
-
 
 
 ### <strong>Atrévete a reinventar tu futuro</strong> y déjanos tu email para recibir más información.

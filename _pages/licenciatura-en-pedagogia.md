@@ -77,13 +77,11 @@ Reconocimiento de Validez Oficial de Estudios ante la Secretaría de Educación 
 
 ## Cuatrimestre I
 
-
 Historia general de la educación
 Conocimiento de la infancia
 Teorías del aprendizaje 
 Filosofía de la educación
 Métodos estadísticos aplicados a la educación 
-
 
 ## Cuatrimestre II
 
@@ -93,7 +91,6 @@ Proceso de enseñanza y aprendizaje
 Sociología de la educación 
 Metodología de la investigación en áreas de la educación I
 
-
 ## Cuatrimestre III 
 
 Legislación educativa 
@@ -102,17 +99,13 @@ Didáctica I
 Economía de la educación 
 Metodología de la investigación en áreas de la educación II
 
-
-
 ## Cuatrimestre IV
-
 
 Estrategias constructivistas de enseñanza y aprendizaje 
 Dinámica de grupos 
 Didáctica II
 Pedagogía comparada 
 Educación no formal
-
 
 ## Cuatrimestre V
 
@@ -122,7 +115,6 @@ Evaluación del aprendizaje
 Diseño instruccional
 Educación especial 
 
-
 ## Cuatrimestre VI 
 
 Desarrollo de competencias educativas y profesionales
@@ -130,7 +122,6 @@ Estrategias de aprendizaje en ambientes virtuales
 Evaluación curricular
 Diseño curricular
 Métodos de investigación y evaluación diagnóstica en educación especial
-
 
 ## Cuatrimestre VII 
 
@@ -140,7 +131,6 @@ Instrumentación e implementación curricular
 Formulación de proyectos de investigación docente 
 Ética profesional
 
-
 ## Cuatrimestre VIII
 
 Planeación y gestión educativa 
@@ -148,7 +138,6 @@ Pedagogía organizacional
 Gestión y evaluación de instituciones educativas
 Gestión de la formación docente
 Proyecto de investigación educativa I
-
 
 ## Cuatrimestre IX
 

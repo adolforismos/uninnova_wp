@@ -84,8 +84,6 @@ Teorías del aprendizaje
 Filosofía de la educación
 Métodos estadísticos aplicados a la educación 
 
-
-
 ## Cuatrimestre II
 
 Sistema educativo nacional 
@@ -94,9 +92,7 @@ Proceso de enseñanza y aprendizaje
 Sociología de la educación 
 Metodología de la investigación en áreas de la educación I
 
-
 ## Cuatrimestre III 
-
 
 Legislación educativa 
 Psicología educativa 
@@ -104,16 +100,13 @@ Didáctica I
 Economía de la educación 
 Metodología de la investigación en áreas de la educación II
 
-
 ## Cuatrimestre IV
-
 
 Estrategias constructivistas de enseñanza y aprendizaje 
 Dinámica de grupos 
 Didáctica II
 Pedagogía comparada 
 Educación no formal
-
 
 ## Cuatrimestre V
 
@@ -123,7 +116,6 @@ Práctica y formación docente
 Taller de orientación educativa I
 Educación especial y problemas de aprendizaje I
 
-
 ## Cuatrimestre VI 
 
 Diseño curricular
@@ -131,7 +123,6 @@ Educación para adultos
 Campos de formación y acción educativa I
 Taller de orientación educativa II
 Educación especial y problemas de aprendizaje II
-
 
 ## Cuatrimestre VII 
 
@@ -141,7 +132,6 @@ Campos de formación y acción educativa II
 Educación intercultural 
 Mercadotecnia educativa 
 
-
 ## Cuatrimestre VIII
 
 Diseño y elaboración de proyectos educativos 
@@ -150,7 +140,6 @@ Educación a distancia I
 Recursos humanos y modelos de capacitación I
 Seminario de tesis I
 
-
 ## Cuatrimestre IX
 
 Aplicación y evaluación de proyectos educativos 
@@ -158,7 +147,6 @@ Educación comparada
 Educación a distancia II
 Recursos humanos y modelos de capacitación II
 Seminario de tesis II
-
 
 
 ### <strong>Atrévete a reinventar tu futuro</strong> y déjanos tu email para recibir más información.
