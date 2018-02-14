@@ -75,7 +75,93 @@ Total cada Cuatrimestre | 6,000
 
 # Plan de estudios
 
-¡Pregunta por nuestro nuevo plan de estudios cuatrimestral!
+<code>Al término de la Licenciatura en Administración de empresas, el alumno será capaz de reconocer el ámbito empresarial desde el punto de vista de los modelos y técnicas de la moderna administración, así mismo tendrá la capacidad para aplicar las técnicas administrativas viables, que le permitan tomar decisiones creativas, asertivas y oportunas, a partir de los aspectos, económicos, contables, jurídicos y mercadológicos; generando así las oportunidades que existen en los mercados y fincar con ello un futuro empresarial con proyección nacional e internacional.
+</code>
+
+## Cuatrimestre I
+
+Fundamentos de la Administración
+Conceptos jurídicos Fundamentales
+Macroeconomía 
+Contabilidad Básica 
+Matemáticas Aplicadas
+
+
+
+## Cuatrimestre II
+
+Fundamentos de la Mercadotecnia 
+Derecho Fiscal 
+Microeconomía 
+Administración Financiera 
+Estadística 
+
+
+## Cuatrimestre III 
+
+Mercadotecnia Estratégica 
+Comportamiento Humano en las Organizaciones
+Análisis del entorno Económico Político y Social 
+Administración de Capital Humano
+Informática Aplicada
+
+
+
+## Cuatrimestre IV
+
+Administración del personal 
+Presupuestos 
+Sociología organizativa 
+Matemáticas financieras 
+Software de aplicaciones 
+
+
+
+## Cuatrimestre V
+
+Administración de la producción 
+Finanzas I 
+Comercio exterior 
+Contabilidad administrativa 
+Paquetería contable y administrativa 
+
+
+## Cuatrimestre VI 
+
+Administración de logística y abasto 
+Finanzas II 
+Mercado financiero y bursátil 
+Economía internacional 
+Derecho administrativo 
+
+
+## Cuatrimestre VII 
+
+Investigación de operaciones 
+Mercadotecnia aplicada 
+Líderes y emprendedores empresariales 
+Auditoría administrativa 
+Derecho laboral 
+
+
+## Cuatrimestre VIII
+
+Comercio electrónico 
+Mercadotecnia internacional 
+Desarrollo de empresas y de negocios 
+Dirección de proyectos y equipos de trabajo 
+Derecho mercantil 
+
+
+## Cuatrimestre IX
+
+Capital humano y negocios 
+Ética profesional 
+Simuladores empresariales 
+Modelos de negocio en las empresas 
+Derecho de la propiedad industrial y la competencia 
+
+
 
 ### <strong>Atrévete a reinventar tu futuro</strong> y déjanos tu email para recibir más información.
 [contact-form subject='Contacto Innova Administracion Empresas'][contact-field label='Correo electrónico' type='email' required='1'/][/contact-form]

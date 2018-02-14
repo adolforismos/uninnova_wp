@@ -74,7 +74,93 @@ Reconocimiento de Validez Oficial de Estudios ante la Secretaría de Educación 
 
 # Plan te estudio 
 
-¡Pregunta por nuestro nuevo plan de estudios cuatrimestral!
+<code>Al finalizar el plan de estudios de la licenciatura en negocios internacionales, el egresado analizará los conocimientos teórico-prácticos y metodológicos del ámbito de la administración, conceptos jurídicos, micro y macroeconomía, contabilidad, matemáticas, mercadotecnia, derecho fiscal, mercantil, laboral, turístico, régimen jurídico de la inversión extranjera y legislación arancelaria, así como la administración financiera, informática, turismo, hotelería rural, planificación turística, diseño, planeación, producción y realización de eventos, comercio exterior, finanzas internacionales, con la finalidad de manejar las técnicas de ventas internacionales, la negociación y habilidades directivas, la auditoria de empresas y la operación de empresas de trasportación que permitan al egresado introducirse en el área laboral.
+</code>
+
+## Cuatrimestre I
+
+
+Fundamentos de la Administración
+Conceptos jurídicos Fundamentales
+Macroeconomía 
+Contabilidad Básica 
+Matemáticas Aplicadas
+
+
+## Cuatrimestre II
+
+Fundamentos de la Mercadotecnia 
+Derecho Fiscal 
+Microeconomía 
+Administración Financiera 
+Estadística 
+
+
+## Cuatrimestre III 
+
+Mercadotecnia Estratégica 
+Comportamiento Humano en las Organizaciones
+Análisis del entorno Económico Político y Social 
+Administración de Capital Humano
+Informática Aplicada
+
+
+
+## Cuatrimestre IV
+
+
+Plan de Negocios
+Derecho Mercantil
+Introducción al Turismo 
+Introducción a los Negocios Internacionales
+Administración de Negocios Internacionales
+
+
+## Cuatrimestre V
+
+Mercadotecnia Internacional
+Derecho Laboral 
+Hotelería Rural
+Investigación de Estudio de Mercado dentro del Marco Internacional
+Finanzas Corporativas
+
+
+## Cuatrimestre VI 
+
+Mercadotecnia Turística
+Derecho Turístico
+Planificación Turística
+Administración de Comercio Exterior
+Finanzas Internacionales 
+
+
+## Cuatrimestre VII 
+
+Logística del Comercio Exterior
+Derecho Internacional 
+Diseño y Planeación de Eventos
+Nuevos Modelos de Negocios Internacionales
+Técnicas de Ventas Internacionales
+
+
+## Cuatrimestre VIII
+
+Agencias de Viajes
+Régimen Jurídico de la Inversión Extranjera 
+Producción de Eventos 
+Auditoria de Empresas Internacionales
+Técnicas de Negociación y Habilidades directivas 
+
+
+## Cuatrimestre IX
+
+Cruceros
+Legislación Arancelaría 
+Relación de Eventos 
+Empresas de transportación 
+Seminario de Tesis 
+
+
 
 ### <strong>Atrévete a reinventar tu futuro</strong> y déjanos tu email para recibir más información.
 [contact-form subject='Contacto Innova Negocios'][contact-field label='Correo electrónico' type='email' required='1'/][/contact-form]

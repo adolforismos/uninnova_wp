@@ -75,7 +75,92 @@ Reconocimiento de Validez Oficial de Estudios ante la Secretaría de Educación 
 
 ## Plan de estudios
 
-¡Pregunta por nuestro nuevo plan de estudios cuatrimestral!
+<code>Al finalizar el plan de estudios de la Licenciatura en Derecho, el alumno analizará normas que y principios teóricos de la naturaleza jurídica, lo que permitirá describir las relaciones soberanas que rigen la estructura, organización y funciones de los órganos del propio estado, así como las relaciones de los mismos entre si y los particulares, así mismo interpretará y manejará las normas procedimentales que se aplican en el derecho civil,  en el derecho penal y otras disciplinas, lo cual generará el conocimiento de las relaciones de subordinación  que el derecho público mantiene con respecto al estado; con la finalidad de aplicar  y hacer valer oportunamente las garantías individuales, los derechos, y obligaciones, además de garantizar la misión de las políticas de preservación y conservación del medio ambiente, con una actitud de juicio, crítica e innovadora</code>
+
+## Cuatrimestre I
+
+Introducción al estudio del derecho 
+Derecho romano I
+Teoría económica 
+Parte general y derecho de la persona  
+Metodología de la investigación jurídica 
+
+
+
+## Cuatrimestre II
+
+Teoría general del proceso 
+Derecho romano II
+Historia del derecho mexicano 
+Derecho de obligaciones y contratos 
+Teoría del estado 
+
+
+## Cuatrimestre III 
+
+Economía política 
+Derecho individual del trabajo	
+Fundamentos del derecho penal y teoría general del delito 
+Derecho de bienes 
+Derechos humanos  
+
+
+
+## Cuatrimestre IV
+
+
+Derecho mercantil
+Derecho colectivo del trabajo 
+Estudio de los delitos en particulares
+Derecho de la familia y sucesiones  
+Derecho constitucional 
+
+
+## Cuatrimestre V
+
+Títulos y operaciones de créditos
+Derecho procesal del trabajo 
+Consecuencias jurídicas, metodología para la aplicación del derecho penal y determinación de penas 
+Derecho procesal civil
+Derecho procesal constitucional  
+
+
+## Cuatrimestre VI 
+
+Contratos mercantiles
+Régimen jurídico de la actividad administrativa y sistemas de control de las administraciones  
+Derecho procesal penal 
+Jurisprudencia 
+Filosofía del derecho 
+
+
+## Cuatrimestre VII 
+
+Lógica, oratoria y argumentación jurídica aplicada 
+Derecho Fiscal
+Juicios orales en materia penal			
+Amparo
+Seguridad pública y procuración de la justicia 
+
+
+## Cuatrimestre VIII
+
+Régimen jurídico del comercio exterior 
+Derecho empresarial  
+Juicios orales en materia civil 
+Practica forense de amparo
+Derecho internacional público y privado 
+
+
+## Cuatrimestre IX
+
+Derecho bancario y bursátil
+Deontología jurídica 
+Practica forense penal y nuevos tipos penales del código penal en México
+Medios alternativos de solución de controversias 
+Seminario de tesis 
+
+
 
 ### <strong>Atrévete a reinventar tu futuro</strong> y déjanos tu email para recibir más información.
 [contact-form subject='Contacto Innova Derecho'][contact-field label='Correo electrónico' type='email' required='1'/][/contact-form]

@@ -79,7 +79,93 @@ Reconocimiento de Validez Oficial de Estudios ante la Secretaría de Educación 
 
 # Plan de estudios
 
-¡Pregunta por nuestro nuevo plan de estudios cuatrimestral!
+<code>Al finalizar el plan de estudios de la Licenciatura en Ciencias de la Comunicación, el egresado será un profesional con los conocimientos para la comprensión  del  fenómeno de la comunicación humana, desde la transmisión, recepción e impacto de los mensajes periodísticos, radiofónicos, televisivos, o documentales a partir de una postura crítica, reflexiva y de conciencia social y cultural, así mismo, analizará el funcionamiento de los medios masivos, aplicando las teorías y técnicas nuevas de las tecnologías de la comunicación como una herramienta para la solución de problemas sociales, políticos y económicos.
+</code>
+
+## Cuatrimestre I
+
+Fundamentos de la Administración
+Conceptos jurídicos Fundamentales
+Macroeconomía 
+Contabilidad Básica 
+Matemáticas Aplicadas
+
+
+
+## Cuatrimestre II
+
+Fundamentos de la Mercadotecnia 
+Derecho Fiscal 
+Microeconomía 
+Administración Financiera 
+Estadística 
+
+
+## Cuatrimestre III 
+
+Mercadotecnia Estratégica 
+Comportamiento Humano en las Organizaciones
+Análisis del entorno Económico Político y Social 
+Administración de Capital Humano
+Informática Aplicada
+
+
+
+## Cuatrimestre IV
+
+Introducción a la Teoría de la Comunicación
+Taller de Lectura y Redacción I
+Sociedad y Comunicación
+Historia y Procesos de la Comunicación en México
+Géneros Periodísticos I
+
+
+
+## Cuatrimestre V
+
+Relaciones Públicas
+Taller de Lectura y Redacción II
+Taller de Investigación Documental
+El guion
+Géneros Periodísticos II
+
+
+## Cuatrimestre VI 
+
+Psicología de la Publicidad
+Taller de Lectura y Redacción III
+Semiótica
+Periodismo por Radio
+Opinión Pública y Propaganda
+
+
+## Cuatrimestre VII 
+
+Campaña Publicitaria
+Planeación y Organización de Empresas Editoriales
+Tecnologías de la Información y Comunicación para la Producción Audiovisual
+Periodismo por Televisión
+Metodología de la Investigación Periodística
+
+
+## Cuatrimestre VIII
+
+Taller de Campañas de Publicidad Social y Políticas Públicas
+Pensamiento Político Moderno y Contemporáneo
+Taller de Diseño y Organización de la Producción Audiovisual
+Periodismo Gráfico
+Seminario de Tesis I
+
+
+## Cuatrimestre IX
+
+Fotografía Periodística
+Regulación de los medios Electrónicos y el Impacto de las Redes Sociales
+Periodismo Especializado
+Periodismo y Lenguaje Narrativo
+Seminario de Tesis II
+
+
 
 ### <strong>Atrévete a reinventar tu futuro</strong> y déjanos tu email para recibir más información.
 [contact-form subject='Contacto Innova Comunicacion'][contact-field label='Correo electrónico' type='email' required='1'/][/contact-form]

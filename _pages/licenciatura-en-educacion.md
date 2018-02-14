@@ -73,7 +73,93 @@ Reconocimiento de Validez Oficial de Estudios ante la Secretaría de Educación 
 
 ## Plan de estudios
 
-¡Pregunta por nuestro nuevo plan de estudios cuatrimestral!
+<code>Al finalizar el plan de estudios de la Licenciatura en Educación, el alumno comprenderá los problemas educativos actuales, mediante perspectivas históricas, políticas, sociales, económicas y culturales a través de propuestas teórico metodológicas, además de resolver  problemas educativos, situándolos en su contexto social , económico, político y cultural, con fundamentos teóricos y metodológicos que le permitan reafirmar experiencias, re-significarlas y darles nuevas formas, activando así el potencial creativo y su producción, así mismo identificará parámetros teóricos y técnicos para el desarrollo e implementación de proyectos educativos, con la finalidad de generar estrategias adecuadas para la intervención educativa de calidad dentro de la institución, con una actitud ética, humanística, filosófica y comprometida. 
+</code>
+
+## Cuatrimestre I
+
+Historia general de la educación
+Conocimiento de la infancia
+Teorías del aprendizaje 
+Filosofía de la educación
+Métodos estadísticos aplicados a la educación 
+
+
+
+## Cuatrimestre II
+
+Sistema educativo nacional 
+Conocimiento de la adolescencia 
+Proceso de enseñanza y aprendizaje 
+Sociología de la educación 
+Metodología de la investigación en áreas de la educación I
+
+
+## Cuatrimestre III 
+
+
+Legislación educativa 
+Psicología educativa 
+Didáctica I
+Economía de la educación 
+Metodología de la investigación en áreas de la educación II
+
+
+## Cuatrimestre IV
+
+
+Estrategias constructivistas de enseñanza y aprendizaje 
+Dinámica de grupos 
+Didáctica II
+Pedagogía comparada 
+Educación no formal
+
+
+## Cuatrimestre V
+
+Planeación estratégica del contexto educativo 
+Medios de comunicación educativa 
+Práctica y formación docente 
+Taller de orientación educativa I
+Educación especial y problemas de aprendizaje I
+
+
+## Cuatrimestre VI 
+
+Diseño curricular
+Educación para adultos 
+Campos de formación y acción educativa I
+Taller de orientación educativa II
+Educación especial y problemas de aprendizaje II
+
+
+## Cuatrimestre VII 
+
+Evaluación institucional 
+Tecnología educativa 
+Campos de formación y acción educativa II
+Educación intercultural 
+Mercadotecnia educativa 
+
+
+## Cuatrimestre VIII
+
+Diseño y elaboración de proyectos educativos 
+Reformas y políticas publicas actuales en el área educativa en México 
+Educación a distancia I
+Recursos humanos y modelos de capacitación I
+Seminario de tesis I
+
+
+## Cuatrimestre IX
+
+Aplicación y evaluación de proyectos educativos 
+Educación comparada 
+Educación a distancia II
+Recursos humanos y modelos de capacitación II
+Seminario de tesis II
+
+
 
 ### <strong>Atrévete a reinventar tu futuro</strong> y déjanos tu email para recibir más información.
 [contact-form subject='Contacto Innova Educacion'][contact-field label='Correo electrónico' type='email' required='1'/][/contact-form]

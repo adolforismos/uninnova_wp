@@ -78,7 +78,93 @@ Reconocimiento de Validez Oficial de Estudios ante la Secretaría de Educación 
 
 # Plan te estudio 
 
-¡Pregunta por nuestro nuevo plan de estudios cuatrimestral!
+<code>Al finalizar el plan de estudios de la Licenciatura en Mercadotecnia, el alumno conocerá conocimientos teóricos y metodológicos con base a los procesos administrativos de venta, elementos para el desarrollo de campañas publicitarias y gestión mercadológica y administrativa dentro de la empresa, desarrollo de costos, fundamentos de contabilidad y elementos presupuestales; con la finalidad de aplicar estudios de mercado, que le permitan fijar y/o adecuar los precios, así como para manejar estrategias de mercado pertinentes dentro de la empresa, que coadyuven a la difusión y promoción de sus productos, contemplando los factores de su entorno de tal manera que las organizaciones logren sus objetivos y a la vez mejoren el crecimiento óptimo, con ética profesional, innovación y responsabilidad social.
+</code>
+
+## Cuatrimestre I
+
+Fundamentos de la administración
+Conceptos jurídicos fundamentales
+Macroeconomía 
+Contabilidad básica 
+Matemáticas aplicadas
+
+
+
+## Cuatrimestre II
+
+Fundamentos de la mercadotecnia 
+Derecho fiscal 
+Microeconomía 
+Administración financiera 
+Estadística 
+
+
+## Cuatrimestre III 
+
+Mercadotecnia estratégica 
+Comportamiento humano en las organizaciones
+Análisis del entorno económico político y social 
+Administración de capital humano
+Informática aplicada
+
+
+
+## Cuatrimestre IV
+
+Mercadotecnia de productos 
+Administración de ventas 
+Comunicación organizacional 
+Análisis de productos y precios  
+El papel de las redes sociales y la mercadotecnia
+
+
+
+## Cuatrimestre V
+
+Mercadotecnia de servicios 
+Técnicas de investigación en Mercados 
+Finanzas en mercadotecnia 
+Publicidad 
+Social media 
+
+
+
+## Cuatrimestre VI 
+
+Mercadotecnia digital 
+Desarrollo de nuevos productos 
+Estrategias de distribución y venta 
+Relaciones e imagen publica 
+Promoción de punto de venta 
+
+## Cuatrimestre VII 
+
+Mercadotecnia internacional 
+Diseño y planeación de eventos 	
+Comportamiento del consumidor 			
+Producción y dirección de Campañas publicitarias 
+Desarrollo de nuevas empresas 
+
+
+## Cuatrimestre VIII
+
+Diseño de mercadotecnia electrónica 
+Sistemas visuales y publicidad  
+Medios y sistemas de producción de pre-prensa	
+Taller de creatividad e innovación 
+Taller de estrategias de negociación 
+
+
+## Cuatrimestre IX
+
+Diseño editorial para la mercadotecnia 
+Comunicación comercial e imagen corporativa 
+Taller de desarrollo empresarial
+Nuevas tendencias de comunicación política y electoral 
+Seminario de tesis 
+
+
 
 ### <strong>Atrévete a reinventar tu futuro</strong> y déjanos tu email para recibir más información.
 [contact-form subject='Contacto Innova Mercadotecnia'][contact-field label='Correo electrónico' type='email' required='1'/][/contact-form]

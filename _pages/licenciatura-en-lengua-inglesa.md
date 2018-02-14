@@ -82,7 +82,93 @@ Reconocimiento de Validez Oficial de Estudios ante la Secretaría de Educación 
 
 # Plan de estudios 
 
-¡Pregunta por nuestro nuevo plan de estudios cuatrimestral!
+<code>Al finalizar el plan de estudios de la Licenciatura en Lengua Inglesa, el alumno valorará conocimientos teóricos y técnicos de la lengua inglesa y su relación con el español, en relación a la morfología, el desarrollo y lectura de textos, la traducción, elementos de comprensión y de análisis en el uso adecuado del idioma inglés, entre otros; con la finalidad de diseñar material didáctico y emplear herramientas que faciliten el aprendizaje del inglés, que le permitan emprender acciones en el  contexto de la enseñanza y adquisición del idioma inglés, con una actitud crítica, innovadora y responsable.
+</code>
+
+## Cuatrimestre I
+
+Fundamentos de la Lingüística en General
+Desarrollo del Pensamiento Crítico y Creativo
+Redacción de Textos Académicos en Español
+Metodología de la Investigación
+Informática Aplicada en el Desarrollo de la Lengua Inglesa
+
+
+
+## Cuatrimestre II
+
+Didáctica de la Lengua Inglesa
+Técnicas y Herramientas de Comprensión Auditiva
+Morfología del Español
+Morfología del Inglés
+Lingüística I
+
+
+## Cuatrimestre III 
+
+
+Antecedentes Históricos de la Lengua Inglesa
+Estrategias Didácticas para la Comprensión de la Lectura y de la Producción Oral
+Nuevas Tecnologías Aplicadas a la Enseñanza del Inglés
+Composición de Textos en Español
+Lingüística II
+
+
+## Cuatrimestre IV
+
+
+Literatura Inglesa
+Enseñanza del Español para Extranjeros
+Sintaxis del Español
+Sintaxis del Inglés
+Inglés I
+
+
+## Cuatrimestre V
+
+Historia de la Cultura Estadounidense
+Análisis del Discurso
+Iniciación a la Traducción
+Lingüística Aplicada
+Inglés II
+
+
+## Cuatrimestre VI 
+
+Iniciación a la Literatura Hispanoamericana Contemporánea
+Competencia Discursiva en Ingles
+Estudios de la Traducción
+Sistemas Lingüísticos
+Inglés III 
+
+
+## Cuatrimestre VII 
+
+Fonética y Fonología del Ingles
+Didáctica del Inglés para Niños
+Lectura y Redacción del Inglés
+Sociolingüística y Psicolingüística
+Inglés IV
+
+
+## Cuatrimestre VIII
+
+Comunicación Intercultural
+Didáctica del Inglés para Adolescentes y Adultos
+Taller de Traducción de Textos Especializados
+Seminario de Investigación de Lingüística Aplicada
+Seminario de Tesis I
+
+
+## Cuatrimestre IX
+
+Administración Educativa para el Área de las Lenguas
+Planeación Educativa
+Técnicas y Habilidades para la Traducción
+Axiología y Práctica Profesional
+Seminario de Tesis II
+
+
 
 ### <strong>Atrévete a reinventar tu futuro</strong> y déjanos tu email para recibir más información.
 [contact-form subject='Contacto Innova Lengua Inglesa'][contact-field label='Correo electrónico' type='email' required='1'/][/contact-form]

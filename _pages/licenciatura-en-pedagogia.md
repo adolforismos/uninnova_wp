@@ -73,7 +73,91 @@ Reconocimiento de Validez Oficial de Estudios ante la Secretaría de Educación 
 
 # Plan de estudios
 
-¡Pregunta por nuestro nuevo plan de estudios cuatrimestral!
+<code>Al finalizar el plan de estudios de la Licenciatura en Pedagogía, el alumno dominará los conocimientos teóricos y metodológicos en áreas de educación e instrumentales de diversas disciplinas que le conducen a: desarrollar sus habilidades meta cognitivas, de trabajo cooperativo y de pensamiento crítico, que se concretarán en acciones de administración, planeación, investigación y docencia, con el fin de desarrollar propuestas educativas integrales y efectivas mediante el diagnóstico de problemáticas en los distintos ámbitos educativos dentro y fuera de las aulas, o dentro de las organizaciones en el área de capacitación, así como evaluar, promover planes, programas y estrategias con el objeto de resolver dificultades de enseñanza-aprendizaje, considerando el contexto educativo nacional e internacional.</code>
+
+## Cuatrimestre I
+
+
+Historia general de la educación
+Conocimiento de la infancia
+Teorías del aprendizaje 
+Filosofía de la educación
+Métodos estadísticos aplicados a la educación 
+
+
+## Cuatrimestre II
+
+Sistema educativo nacional 
+Conocimiento de la adolescencia 
+Proceso de enseñanza y aprendizaje 
+Sociología de la educación 
+Metodología de la investigación en áreas de la educación I
+
+
+## Cuatrimestre III 
+
+Legislación educativa 
+Psicología educativa 
+Didáctica I
+Economía de la educación 
+Metodología de la investigación en áreas de la educación II
+
+
+
+## Cuatrimestre IV
+
+
+Estrategias constructivistas de enseñanza y aprendizaje 
+Dinámica de grupos 
+Didáctica II
+Pedagogía comparada 
+Educación no formal
+
+
+## Cuatrimestre V
+
+Epistemología de la educación 
+Orientación educativa 
+Evaluación del aprendizaje 
+Diseño instruccional
+Educación especial 
+
+
+## Cuatrimestre VI 
+
+Desarrollo de competencias educativas y profesionales
+Estrategias de aprendizaje en ambientes virtuales 
+Evaluación curricular
+Diseño curricular
+Métodos de investigación y evaluación diagnóstica en educación especial
+
+
+## Cuatrimestre VII 
+
+Modelos de formación docente contemporáneos 
+Material, medios y recursos educativos 
+Instrumentación e implementación curricular
+Formulación de proyectos de investigación docente 
+Ética profesional
+
+
+## Cuatrimestre VIII
+
+Planeación y gestión educativa 
+Pedagogía organizacional 
+Gestión y evaluación de instituciones educativas
+Gestión de la formación docente
+Proyecto de investigación educativa I
+
+
+## Cuatrimestre IX
+
+Supervisión escolar 
+Planeación y gestión financiera para la calidad educativa 
+Dirección y liderazgo educativo
+Estudio de la problemática educativa en México
+Proyecto de investigación educativa II
+
 
 ### <strong>Atrévete a reinventar tu futuro</strong> y déjanos tu email para recibir más información.
 [contact-form subject='Contacto Innova Pedagogia'][contact-field label='Correo electrónico' type='email' required='1'/][/contact-form]
