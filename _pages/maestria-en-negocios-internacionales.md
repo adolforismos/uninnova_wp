@@ -1,5 +1,5 @@
 ---
-ID: 
+ID: 848
 post_title: Maestría en Negocios Internacionales
 author: innova
 post_excerpt: ""
@@ -9,4 +9,3 @@ permalink: >
 published: true
 post_date: 2018-02-20 12:10:27
 ---
-
