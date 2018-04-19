@@ -58,4 +58,4 @@ Cuando te inscribas tienes que dar el siguiente código de cupón y se te hará 
 
 ##  Tel. 6586 5510
 
-[contact-form subject='Contacto 3 años'][contact-field label='Nombre' type='textfield' required='1'/][contact-field label='Apellido' type='text' required='1'/][contact-field label='Teléfono' type='text' required='0'/][contact-field label='Correo electrónico' type='email' required='1'/][contact-field label='Dudas o comentarios' type='textarea' required='0'/][/contact-form]
+[contact-form subject='Contacto 3 años' to="brenda.perez@innova.edu.mx"][contact-field label='Nombre' type='textfield' required='1'/][contact-field label='Apellido' type='text' required='1'/][contact-field label='Teléfono' type='text' required='0'/][contact-field label='Correo electrónico' type='email' required='1'/][contact-field label='Dudas o comentarios' type='textarea' required='0'/][/contact-form]
