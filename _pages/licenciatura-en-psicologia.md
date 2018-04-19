@@ -150,4 +150,4 @@ Reconocimiento de Validez Oficial de Estudios ante la Secretaría de Educación 
 
 
 ### <strong>Atrévete a reinventar tu futuro</strong> y déjanos tu email para recibir más información.
-[contact-form subject='Contacto Innova Psicología'][contact-field label='Correo electrónico' type='email' required='1'/][/contact-form]
+[contact-form subject='Contacto Innova Psicología' to="brenda.perez@innova.edu.mx"][contact-field label='Correo electrónico' type='email' required='1'/][/contact-form]
