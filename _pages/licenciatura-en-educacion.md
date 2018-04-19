@@ -110,4 +110,4 @@ Seminario de tesis II
 
 
 ### <strong>Atrévete a reinventar tu futuro</strong> y déjanos tu email para recibir más información.
-[contact-form subject='Contacto Innova Educacion'][contact-field label='Correo electrónico' type='email' required='1'/][/contact-form]
+[contact-form subject='Contacto Innova Educacion' to="brenda.perez@innova.edu.mx"][contact-field label='Correo electrónico' type='email' required='1'/][/contact-form]
