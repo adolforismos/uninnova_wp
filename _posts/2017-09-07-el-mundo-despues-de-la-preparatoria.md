@@ -66,4 +66,4 @@ Comprometerte a terminar un programa de licenciatura te enseña dos de los valor
 
 
 ### <strong>Atrévete a reinventar tu futuro</strong> y déjanos tu email para recibir más información.
-[contact-form subject='Mundo Después Prepa'][contact-field label="Correo electrónico" type="email" required="1"][contact-field label="Dudas o comentarios" type="textarea"][/contact-form]
+[contact-form subject='Mundo Después Prepa' to="brenda.perez@innova.edu.mx"][contact-field label="Correo electrónico" type="email" required="1"][contact-field label="Dudas o comentarios" type="textarea"][/contact-form]
