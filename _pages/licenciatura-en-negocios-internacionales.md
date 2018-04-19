@@ -111,4 +111,4 @@ Seminario de Tesis
 
 
 ### <strong>Atrévete a reinventar tu futuro</strong> y déjanos tu email para recibir más información.
-[contact-form subject='Contacto Innova Negocios'][contact-field label='Correo electrónico' type='email' required='1'/][/contact-form]
+[contact-form subject='Contacto Innova Negocios' to="brenda.perez@innova.edu.mx"][contact-field label='Correo electrónico' type='email' required='1'/][/contact-form]
