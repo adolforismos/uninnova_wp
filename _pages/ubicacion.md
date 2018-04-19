@@ -34,4 +34,4 @@ México
 
 ### **Atrévete a reinventar tu futuro** y déjanos tu email para recibir más información.
 
- [contact-form subject='Contacto Innova Ubicación'][contact-field label='Correo electrónico' type='email' required='1'/][contact-field label='Comentario' type='textarea' required='1'/][/contact-form]
+ [contact-form subject='Contacto Innova Ubicación' to="brenda.perez@innova.edu.mx"][contact-field label='Correo electrónico' type='email' required='1'/][contact-field label='Comentario' type='textarea' required='1'/][/contact-form]
