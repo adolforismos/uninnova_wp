@@ -109,4 +109,4 @@ Proyecto de investigación educativa II
 
 
 ### <strong>Atrévete a reinventar tu futuro</strong> y déjanos tu email para recibir más información.
-[contact-form subject='Contacto Innova Pedagogia'][contact-field label='Correo electrónico' type='email' required='1'/][/contact-form]
+[contact-form subject='Contacto Innova Pedagogia' to="brenda.perez@innova.edu.mx"][contact-field label='Correo electrónico' type='email' required='1'/][/contact-form]
