@@ -18,4 +18,4 @@ Nuestro trato es personalizado, por favor comunícate al siguiente teléfono o l
 
 ### **Atrévete a reinventar tu futuro** y déjanos tu email para recibir más información.
 
- [contact-form subject='Contacto Innova Becas'][contact-field label='Correo electrónico' type='email' required='1'/][contact-field label='Comentario' type='textarea' required='1'/][/contact-form]
+ [contact-form subject='Contacto Innova Becas' to="brenda.perez@innova.edu.mx"][contact-field label='Correo electrónico' type='email' required='1'/][contact-field label='Comentario' type='textarea' required='1'/][/contact-form]
