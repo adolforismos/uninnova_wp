@@ -118,4 +118,4 @@ Axiología y Práctica Profesional
 Seminario de Tesis II
 
 ### <strong>Atrévete a reinventar tu futuro</strong> y déjanos tu email para recibir más información.
-[contact-form subject='Contacto Innova Lengua Inglesa'][contact-field label='Correo electrónico' type='email' required='1'/][/contact-form]
+[contact-form subject='Contacto Innova Lengua Inglesa' to="brenda.perez@innova.edu.mx"][contact-field label='Correo electrónico' type='email' required='1'/][/contact-form]
