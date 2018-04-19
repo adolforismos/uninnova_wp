@@ -14,14 +14,14 @@ post_date: 2017-07-07 13:19:01
 
 Turno | Horarios
 ---|---
-Matutino | 8:00 a 14:00 hrs
+Matutino | 8:30 a 13:00 hrs
 Vespertino | 17:00 a 21:00 hrs
 
 ## Horarios Sábados
 
 Turno | Horarios
 ---|---
-Sabatino | 7:00 a 14:00 hrs
+Sabatino | 8:30 a 13:00 hrs
 
 ### Es importante revisar la disponibilidad de horarios según sea la carrera. No dudes en ponerte en contacto con nosotros para consultar.
 
