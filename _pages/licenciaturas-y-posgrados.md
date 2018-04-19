@@ -40,4 +40,4 @@ Negocios Internacionales | *
 
 ### **Atrévete a reinventar tu futuro** y déjanos tu email para recibir más información.
 
- [contact-form subject='Contacto Innova Licenciaturas'][contact-field label='Correo electrónico' type='email' required='1'/][contact-field label='Comentario' type='textarea' required='1'/][/contact-form]
+ [contact-form subject='Contacto Innova Licenciaturas' to="brenda.perez@innova.edu.mx"][contact-field label='Correo electrónico' type='email' required='1'/][contact-field label='Comentario' type='textarea' required='1'/][/contact-form]
